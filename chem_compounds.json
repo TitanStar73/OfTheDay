@@ -829,12 +829,6 @@
         "smiles": "C1=CC=C(C(=O)N2C(=O)C3=CC=CC=C3N2)C(=O)O"
     },
     {
-        "common_name": "Heroin",
-        "molecular_formula": "C21H23NO5",
-        "description": "A highly addictive opioid, synthesized from morphine.",
-        "smiles": "CC(C(=O)O)C(C(=O)O)N"
-    },
-    {
         "common_name": "Acetylene",
         "molecular_formula": "C2H2",
         "description": "A gas used in welding and as a fuel.",
