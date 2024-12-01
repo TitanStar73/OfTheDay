@@ -1,1468 +1,1289 @@
-{"start-date":"23/11/24",
-  "data":[
-    {
-        "common_name": "Saccharin",
-        "molecular_formula": "C7H5NO3S",
-        "description": "One of the earliest discovered artificial sweeteners, often used in sugar-free foods and drinks.",
-        "smiles": "C1=CC(=O)C(=C1S)C(=O)O"
-    },
-    {
-        "common_name": "Lauric Acid",
-        "molecular_formula": "C12H24O2",
-        "description": "A saturated fatty acid found in coconut oil and palm kernel oil, used in soaps and cosmetics.",
-        "smiles": "CCCCCCCCCC(=O)O"
-    },
-    {
-        "common_name": "Xylitol",
-        "molecular_formula": "C5H12O5",
-        "description": "A sugar alcohol used as a sweetener, often found in sugar-free gum and toothpaste.",
-        "smiles": "CC(C(CO)O)C(CO)O"
-    },
-    {
-        "common_name": "Phosphoric Acid",
-        "molecular_formula": "H3PO4",
-        "description": "Used in fertilizers, food flavoring, and rust removal.",
-        "smiles": "O=P(O)(O)O"
-    },
-    {
-        "common_name": "Glutamate",
-        "molecular_formula": "C5H9NO4",
-        "description": "The most abundant excitatory neurotransmitter in the brain, involved in synaptic plasticity.",
-        "smiles": "C(C(C(=O)O)N)C(C(=O)O)C"
-    },
-    {
-        "common_name": "Glucose",
-        "molecular_formula": "C6H12O6",
-        "description": "A simple sugar that is an important energy source in living organisms.",
-        "smiles": "C(C1C(C(C(C(O1)O)O)O)O)O"
-    },
-    {
-        "common_name": "Cyclohexane",
-        "molecular_formula": "C6H12",
-        "description": "A solvent used in laboratories and in the production of chemicals.",
-        "smiles": "C1CCCCC1"
-    },
-    {
-        "common_name": "Ammonium Nitrate",
-        "molecular_formula": "NH4NO3",
-        "description": "Used in fertilizers and explosives.",
-        "smiles": "[NH4+].[N+](=O)([O-])[O-]"
-    },
-    {
-        "common_name": "Glutamic Acid",
-        "molecular_formula": "C5H9NO4",
-        "description": "An amino acid involved in the synthesis of proteins and neurotransmission.",
-        "smiles": "C(C(=O)O)C(C(=O)O)C(N)C"
-    },
-    {
-        "common_name": "Sodium Bicarbonate",
-        "molecular_formula": "NaHCO3",
-        "description": "Also known as baking soda, widely used in cooking and cleaning.",
-        "smiles": "[Na+].[HCO3-]"
-    },
-    {
-        "common_name": "Fumaric Acid",
-        "molecular_formula": "C4H4O4",
-        "description": "Used as a food additive and in medicine.",
-        "smiles": "C(=C/C(=O)O)\\C(=O)O"
-    },
-    {
-        "common_name": "Hydrogen Sulfide",
-        "molecular_formula": "H2S",
-        "description": "A toxic gas with a characteristic rotten egg smell.",
-        "smiles": "S"
-    },
-    {
-        "common_name": "Nitric Acid",
-        "molecular_formula": "HNO3",
-        "description": "A highly corrosive acid used in fertilizers and explosives.",
-        "smiles": "O=N(=O)O"
-    },
-    {
-        "common_name": "Chitin",
-        "molecular_formula": "C8H13NO5",
-        "description": "A long-chain polymer found in the exoskeletons of arthropods and insects, and in the cell walls of fungi.",
-        "smiles": "C(C(C(C(CO)O)O)N)O"
-    },
-    {
-        "common_name": "Arginine",
-        "molecular_formula": "C6H14N4O2",
-        "description": "An amino acid important for protein synthesis and nitric oxide production.",
-        "smiles": "C(CC(C(=O)O)N)C(N)N"
-    },
-    {
-        "common_name": "Pyridoxine (Vitamin B6)",
-        "molecular_formula": "C8H11NO3",
-        "description": "A B-vitamin involved in amino acid metabolism and the synthesis of neurotransmitters.",
-        "smiles": "CC(C1=CC=CC=C1O)C(=O)O"
-    },
-    {
-        "common_name": "Sodium Hydroxide",
-        "molecular_formula": "NaOH",
-        "description": "Also known as lye, used in soap making and as a strong base in chemistry.",
-        "smiles": "[Na+].[OH-]"
-    },
-    {
-        "common_name": "Potassium Bicarbonate",
-        "molecular_formula": "KHCO3",
-        "description": "Used as a food additive, fungicide, and to treat low potassium levels in the blood.",
-        "smiles": "K[HCO3]"
-    },
-    {
-        "common_name": "Myristic Acid",
-        "molecular_formula": "C14H28O2",
-        "description": "A fatty acid found in coconut oil and nutmeg, commonly used in soap and personal care products.",
-        "smiles": "CCCCCCCCCCCC(=O)O"
-    },
-    {
-        "common_name": "Ammonium Hydroxide",
-        "molecular_formula": "NH4OH",
-        "description": "A solution of ammonia in water, used as a cleaning agent.",
-        "smiles": "N([H])([H])([H])O"
-    },
-    {
-        "common_name": "Erythritol",
-        "molecular_formula": "C4H10O4",
-        "description": "A sugar substitute used in low-calorie foods.",
-        "smiles": "C(C(C(CO)O)O)O"
-    },
-    {
-        "common_name": "Acetylcholine",
-        "molecular_formula": "C7H16NO2",
-        "description": "A neurotransmitter involved in muscle movement and memory formation.",
-        "smiles": "CC(C(=O)O)NCCO"
-    },
-    {
-        "common_name": "Ethyl Acetate",
-        "molecular_formula": "C4H8O2",
-        "description": "A solvent commonly used in nail polish removers.",
-        "smiles": "CCOC(=O)C"
-    },
-    {
-        "common_name": "Allyl Alcohol",
-        "molecular_formula": "C3H6O",
-        "description": "Used in the production of resins and plasticizers.",
-        "smiles": "C=CCO"
-    },
-    {
-        "common_name": "Lead(II) Acetate",
-        "molecular_formula": "Pb(C2H3O2)2",
-        "description": "Historically used in cosmetics and as a sweetener in wine, now known to be toxic.",
-        "smiles": "CC(=O)[O-].CC(=O)[O-].[Pb+2]"
-    },
-    {
-        "common_name": "Arsenic Trioxide",
-        "molecular_formula": "As2O3",
-        "description": "A toxic compound used in the treatment of certain types of leukemia.",
-        "smiles": "O=[As]=O"
-    },
-    {
-        "common_name": "Aspirin",
-        "molecular_formula": "C9H8O4",
-        "description": "A pain reliever and anti-inflammatory drug.",
-        "smiles": "CC(=O)Oc1ccccc1C(=O)O"
-    },
-    {
-        "common_name": "Methane",
-        "molecular_formula": "CH4",
-        "description": "Main component of natural gas, used as a fuel.",
-        "smiles": "C"
-    },
-    {
-        "common_name": "Sodium Chloride",
-        "molecular_formula": "NaCl",
-        "description": "Common table salt, used in food and chemical industries.",
-        "smiles": "[Na+].[Cl-]"
-    },
-    {
-        "common_name": "Fructooligosaccharides",
-        "molecular_formula": "C18H30O15",
-        "description": "A group of short-chain carbohydrates made up of fructose molecules, often used as prebiotics.",
-        "smiles": "OCC(C(C(C(CO)O)O)O)O"
-    },
-    {
-        "common_name": "Salicylic Acid",
-        "molecular_formula": "C7H6O3",
-        "description": "An important compound used in acne treatment and as a pain reliever.",
-        "smiles": "C1=CC(=C(C=C1)O)C(=O)O"
-    },
-    {
-        "common_name": "Chromium(III) Chloride",
-        "molecular_formula": "CrCl3",
-        "description": "Used in dyeing, metallurgy, and as a catalyst.",
-        "smiles": "[Cr+3].[Cl-].[Cl-].[Cl-]"
-    },
-    {
-        "common_name": "Butyric Acid",
-        "molecular_formula": "C4H8O2",
-        "description": "A fatty acid found in animal fats and plant oils, with a strong odor, used in flavoring and perfumes.",
-        "smiles": "CCCC(=O)O"
-    },
-    {
-        "common_name": "Potassium Nitrate",
-        "molecular_formula": "KNO3",
-        "description": "Used in fertilizers and historically in gunpowder.",
-        "smiles": "[K+].[N+](=O)([O-])[O-]"
-    },
-    {
-        "common_name": "Carbon Dioxide",
-        "molecular_formula": "CO2",
-        "description": "A gas produced by burning carbon and organic compounds; a key greenhouse gas.",
-        "smiles": "O=C=O"
-    },
-    {
-        "common_name": "Sulfuric Acid",
-        "molecular_formula": "H2SO4",
-        "description": "A highly corrosive acid used in batteries and industrial processes.",
-        "smiles": "OS(=O)(=O)O"
-    },
-    {
-        "common_name": "Adrenaline (Epinephrine)",
-        "molecular_formula": "C9H13NO3",
-        "description": "A hormone and neurotransmitter involved in the body's fight-or-flight response.",
-        "smiles": "CC1=CC(=C(C=C1)O)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Potassium Chloride",
-        "molecular_formula": "KCl",
-        "description": "Used in fertilizers and as a salt substitute.",
-        "smiles": "[K+].[Cl-]"
-    },
-    {
-        "common_name": "Capric Acid",
-        "molecular_formula": "C10H20O2",
-        "description": "A fatty acid found in animal fats and coconut oil, used in flavoring and soap making.",
-        "smiles": "CCCCCCCC(=O)O"
-    },
-    {
-        "common_name": "Phenylalanine",
-        "molecular_formula": "C9H11NO2",
-        "description": "An essential amino acid used in protein synthesis.",
-        "smiles": "C1=CC=C(C=C1)CC(C(=O)O)N"
-    },
-    {
-        "common_name": "Potassium Hydroxide",
-        "molecular_formula": "KOH",
-        "description": "A strong base used in soap making and as a drain cleaner.",
-        "smiles": "[K+].[OH-]"
-    },
-    {
-        "common_name": "Capsaicin",
-        "molecular_formula": "C18H27NO3",
-        "description": "The compound that gives chili peppers their heat.",
-        "smiles": "CCCCC=CC(=O)NC1=CC=C(C=C1O)OCC2CCCCC2"
-    },
-    {
-        "common_name": "Vitamin E",
-        "molecular_formula": "C29H50O2",
-        "description": "A fat-soluble antioxidant that helps protect cells from oxidative damage.",
-        "smiles": "CC(C)CCCCCCCCCC(C)C(=O)C1=CC(=CC=C1C2CC2)C"
-    },
-    {
-        "common_name": "Naphthalene",
-        "molecular_formula": "C10H8",
-        "description": "A moth repellent and used in the production of phthalic anhydride.",
-        "smiles": "C1=CC=CC=C1C2=CC=CC=C2"
-    },
-    {
-        "common_name": "Phenol",
-        "molecular_formula": "C6H6O",
-        "description": "A disinfectant and precursor to plastics.",
-        "smiles": "C1=CC=C(C=C1)O"
-    },
-    {
-        "common_name": "L-Theanine",
-        "molecular_formula": "C7H14N2O3",
-        "description": "An amino acid found in tea leaves that promotes relaxation.",
-        "smiles": "CC1=NC(=O)N(C1C(=O)O)C"
-    },
-    {
-        "common_name": "Tartaric Acid",
-        "molecular_formula": "C4H6O6",
-        "description": "Used in baking powders and as an acidulant in food.",
-        "smiles": "OC(=O)C(C(C(=O)O)O)O"
-    },
-    {
-        "common_name": "Niacin (Vitamin B3)",
-        "molecular_formula": "C6H5NO2",
-        "description": "A water-soluble B-vitamin, important for converting food into energy.",
-        "smiles": "C1=CC(=O)C(=N1)C(=O)O"
-    },
-    {
-        "common_name": "Pantothenic Acid (Vitamin B5)",
-        "molecular_formula": "C9H17NO5",
-        "description": "A B-vitamin involved in the synthesis of coenzyme A, crucial for metabolism.",
-        "smiles": "CC(C(=O)O)C(CO)C(=O)OCCNC(=O)O"
-    },
-    {
-        "common_name": "Casein",
-        "molecular_formula": "C81H125N23O39P2S2",
-        "description": "A family of proteins commonly found in mammalian milk, known for its slow digestion rate.",
-        "smiles": "C(C(C(C(CCO)O)N)O)O"
-    },
-    {
-        "common_name": "Sucralose",
-        "molecular_formula": "C12H19Cl3O8",
-        "description": "A chlorinated sugar compound used as a low-calorie sweetener.",
-        "smiles": "C1C(C(C(C1Cl)O)Cl)C(C(=O)O)O"
-    },
-    {
-        "common_name": "Benzoic Acid",
-        "molecular_formula": "C7H6O2",
-        "description": "A preservative used in food and beverages.",
-        "smiles": "C1=CC=C(C=C1)C(=O)O"
-    },
-    {
-        "common_name": "Methionine",
-        "molecular_formula": "C5H11NO2S",
-        "description": "An essential amino acid that contains sulfur, involved in protein synthesis.",
-        "smiles": "CC(C(C(=O)O)N)CS"
-    },
-    {
-        "common_name": "Propane",
-        "molecular_formula": "C3H8",
-        "description": "A fuel commonly used for heating and cooking.",
-        "smiles": "CCC"
-    },
-    {
-        "common_name": "Manganese(II) Sulfate",
-        "molecular_formula": "MnSO4",
-        "description": "Used in fertilizers, as a dietary supplement, and in the production of batteries.",
-        "smiles": "[Mn+2].[SO4-2]"
-    },
-    {
-        "common_name": "Folic Acid",
-        "molecular_formula": "C19H19N7O6",
-        "description": "A vitamin essential for DNA synthesis.",
-        "smiles": "CC1=C(C(=O)NC(=O)N1)NC2=NC=NC3=C2C=CC=C3"
-    },
-    {
-        "common_name": "Hydrogen",
-        "molecular_formula": "H2",
-        "description": "The most abundant element in the universe, used in fuel cells.",
-        "smiles": "[H][H]"
-    },
-    {
-        "common_name": "Nitrous Oxide",
-        "molecular_formula": "N2O",
-        "description": "Known as laughing gas, used in anesthesia and as a propellant.",
-        "smiles": "N[N+]=[O-]"
-    },
-    {
-        "common_name": "L-Dopa (Levodopa)",
-        "molecular_formula": "C9H11NO4",
-        "description": "A precursor to dopamine used in the treatment of Parkinson's disease.",
-        "smiles": "C1=CC(=C(C=C1O)C(C(=O)O)N)C(=O)O"
-    },
-    {
-        "common_name": "Celecoxib",
-        "molecular_formula": "C17H17ClN2O2S",
-        "description": "A selective COX-2 inhibitor used to treat pain and inflammation.",
-        "smiles": "CC(C1=CC=CC=C1)N(CC)C(=O)O"
-    },
-    {
-        "common_name": "Vitamin D3",
-        "molecular_formula": "C27H44O",
-        "description": "A form of vitamin D, essential for calcium absorption and bone health.",
-        "smiles": "CC(=O)C1=C(C(=O)O)C2=CC=CC=C2C3CCCCC3"
-    },
-    {
-        "common_name": "Valine",
-        "molecular_formula": "C5H11NO2",
-        "description": "A branched-chain amino acid important for muscle growth and tissue repair.",
-        "smiles": "CC(C(=O)O)C(C)C"
-    },
-    {
-        "common_name": "L-theanine",
-        "molecular_formula": "C7H14N2O3",
-        "description": "An amino acid found in tea, known for its calming effects and potential to improve focus when combined with caffeine.",
-        "smiles": "CC(C(=O)N)C1=CNC2=C1C(=O)O2"
-    },
-    {
-        "common_name": "Nicotine",
-        "molecular_formula": "C10H14N2",
-        "description": "An addictive compound found in tobacco.",
-        "smiles": "CN1C=CC2=C1C(=O)N(C(=O)N2C)C"
-    },
-    {
-        "common_name": "Chlorobenzene",
-        "molecular_formula": "C6H5Cl",
-        "description": "Used as a solvent and as a precursor in the production of chemicals.",
-        "smiles": "C1=CC=C(C=C1)Cl"
-    },
-    {
-        "common_name": "Acetic Anhydride",
-        "molecular_formula": "C4H6O3",
-        "description": "Used in chemical synthesis and acetylation processes.",
-        "smiles": "CC(=O)OC(=O)C"
-    },
-    {
-        "common_name": "Caffeine",
-        "molecular_formula": "C8H10N4O2",
-        "description": "A stimulant found in coffee, tea, and energy drinks.",
-        "smiles": "Cn1cnc2c1c(=O)n(c(=O)n2C)C"
-    },
-    {
-        "common_name": "THC (Tetrahydrocannabinol)",
-        "molecular_formula": "C21H30O2",
-        "description": "The psychoactive component of cannabis responsible for the 'high'.",
-        "smiles": "CC(C1=C(C2C(C(C1C(C(C2O)O)C)C)C)C)"
-    },
-    {
-        "common_name": "Sodium Hypochlorite",
-        "molecular_formula": "NaClO",
-        "description": "The active ingredient in household bleach.",
-        "smiles": "[Na+].[O-]Cl"
-    },
-    {
-        "common_name": "Acetamide",
-        "molecular_formula": "C2H5NO",
-        "description": "An organic compound used as a plasticizer and solvent.",
-        "smiles": "CC(=O)N"
-    },
-    {
-        "common_name": "Water",
-        "molecular_formula": "H2O",
-        "description": "Essential for all known forms of life; commonly used as a solvent.",
-        "smiles": "O"
-    },
-    {
-        "common_name": "Sucrose",
-        "molecular_formula": "C12H22O11",
-        "description": "Common table sugar, widely used as a sweetener.",
-        "smiles": "C1(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O"
-    },
-    {
-        "common_name": "Calcium Chloride",
-        "molecular_formula": "CaCl2",
-        "description": "A salt used for de-icing roads and as a drying agent.",
-        "smiles": "[Ca+2].[Cl-].[Cl-]"
-    },
-    {
-        "common_name": "Hydrochloric Acid",
-        "molecular_formula": "HCl",
-        "description": "A strong acid used in cleaning and chemical synthesis.",
-        "smiles": "Cl"
-    },
-    {
-        "common_name": "Potassium Permanganate",
-        "molecular_formula": "KMnO4",
-        "description": "An oxidizing agent used in water treatment and disinfection.",
-        "smiles": "[K+].[O-][Mn](=O)(=O)=O"
-    },
-    {
-        "common_name": "Pentane",
-        "molecular_formula": "C5H12",
-        "description": "A component of gasoline, used as a solvent.",
-        "smiles": "CCCCC"
-    },
-    {
-        "common_name": "Lactic Acid",
-        "molecular_formula": "C3H6O3",
-        "description": "Produced in muscles during exercise; used in food preservation.",
-        "smiles": "CC(C(=O)O)O"
-    },
-    {
-        "common_name": "Boric Acid",
-        "molecular_formula": "H3BO3",
-        "description": "Used as an antiseptic and in eyewash solutions.",
-        "smiles": "B(O)(O)O"
-    },
-    {
-        "common_name": "Chlorine",
-        "molecular_formula": "Cl2",
-        "description": "A yellow-green gas used as a disinfectant and in water treatment.",
-        "smiles": "ClCl"
-    },
-    {
-        "common_name": "Sulfur Dioxide",
-        "molecular_formula": "SO2",
-        "description": "A colorless gas with a pungent odor, used in the production of sulfuric acid and as a preservative.",
-        "smiles": "O=S=O"
-    },
-    {
-        "common_name": "Ethylenediaminetetraacetic Acid",
-        "molecular_formula": "C10H16N2O8",
-        "description": "Used in chelation therapy to bind metal ions.",
-        "smiles": "C1CC(NC(=O)O)C(=O)OCC2CC(N2C(=O)O)C(=O)O"
-    },
-    {
-        "common_name": "Citric Acid",
-        "molecular_formula": "C6H8O7",
-        "description": "Naturally found in citrus fruits, used as a preservative and flavoring agent.",
-        "smiles": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O"
-    },
-    {
-        "common_name": "Isoprene",
-        "molecular_formula": "C5H8",
-        "description": "A building block for natural rubber.",
-        "smiles": "C=C(C)C=C"
-    },
-    {
-        "common_name": "Ammonium Carbonate",
-        "molecular_formula": "NH4CO3",
-        "description": "Used in baking and as a smelling salt.",
-        "smiles": "[NH4+].[C](=O)(O)[O-]"
-    },
-    {
-        "common_name": "Hydrofluoric Acid",
-        "molecular_formula": "HF",
-        "description": "Used for etching glass and cleaning metals.",
-        "smiles": "F"
-    },
-    {
-        "common_name": "Tyrosine",
-        "molecular_formula": "C9H11NO3",
-        "description": "An amino acid important for producing neurotransmitters like dopamine and epinephrine.",
-        "smiles": "C1=CC=C(C=C1)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Formic Acid",
-        "molecular_formula": "CH2O2",
-        "description": "The simplest carboxylic acid, found in ant venom.",
-        "smiles": "C(=O)O"
-    },
-    {
-        "common_name": "Calcium Sulfate",
-        "molecular_formula": "CaSO4",
-        "description": "Used in construction materials like plaster and drywall.",
-        "smiles": "[Ca+2].[O-]S(=O)(=O)[O-]"
-    },
-    {
-        "common_name": "Ascorbic Acid (Vitamin C)",
-        "molecular_formula": "C6H8O6",
-        "description": "An essential nutrient for humans, found in citrus fruits and used as an antioxidant.",
-        "smiles": "C(C(=O)O)C(C(=O)O)C(C(=O)O)O"
-    },
-    {
-        "common_name": "Glycine",
-        "molecular_formula": "C2H5NO2",
-        "description": "The simplest amino acid, used in protein synthesis.",
-        "smiles": "C(C(=O)O)N"
-    },
-    {
-        "common_name": "Hydrogen Peroxide",
-        "molecular_formula": "H2O2",
-        "description": "A common disinfectant and bleaching agent.",
-        "smiles": "OO"
-    },
-    {
-        "common_name": "Retinol (Vitamin A1)",
-        "molecular_formula": "C20H30O",
-        "description": "A precursor of vitamin A, crucial for vision and immune function.",
-        "smiles": "CC(C(=O)O)C1=CC(C=CC=CC=CC=CC=1)C(C(=O)O)C"
-    },
-    {
-        "common_name": "Diclofenac",
-        "molecular_formula": "C14H11Cl2NO2",
-        "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammation.",
-        "smiles": "ClC1=CC(=C(C=C1)C(=O)O)C(=O)O"
-    },
-    {
-        "common_name": "Succinic Acid",
-        "molecular_formula": "C4H6O4",
-        "description": "Found in plants and used in the production of plastics and resins.",
-        "smiles": "C(C(=O)O)C(C(=O)O)C"
-    },
-    {
-        "common_name": "Oxytocin",
-        "molecular_formula": "C9H14N2O4S2",
-        "description": "A hormone involved in childbirth, lactation, and emotional bonding.",
-        "smiles": "C1CC(C(C(=O)O)N)CC(C(=O)O)N"
-    },
-    {
-        "common_name": "Heptane",
-        "molecular_formula": "C7H16",
-        "description": "A solvent used in laboratories and to dilute other chemicals.",
-        "smiles": "CCCCCCC"
-    },
-    {
-        "common_name": "Oxygen",
-        "molecular_formula": "O2",
-        "description": "Essential for respiration and supports combustion.",
-        "smiles": "O=O"
-    },
-    {
-        "common_name": "Ethylene",
-        "molecular_formula": "C2H4",
-        "description": "A plant hormone and a precursor in the production of plastics.",
-        "smiles": "C=C"
-    },
-    {
-        "common_name": "Toluene",
-        "molecular_formula": "C7H8",
-        "description": "A solvent and precursor to many chemical syntheses.",
-        "smiles": "Cc1ccccc1"
-    },
-    {
-        "common_name": "Cholesterol",
-        "molecular_formula": "C27H46O",
-        "description": "A sterol found in animal cells and important for cell membrane structure.",
-        "smiles": "CC(C)CCCCCC(C)C(C(=O)O)C(=O)CC1=CC(=CC=C1)C(C)C"
-    },
-    {
-        "common_name": "Chlorine Dioxide",
-        "molecular_formula": "ClO2",
-        "description": "A powerful oxidizing agent used in water treatment and as a bleach.",
-        "smiles": "O=[Cl]=O"
-    },
-    {
-        "common_name": "Insulin",
-        "molecular_formula": "C6H12N2O6S2",
-        "description": "A hormone produced in the pancreas that regulates glucose levels in the blood.",
-        "smiles": "CC(C(=O)O)NC(C(=O)O)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Alanine",
-        "molecular_formula": "C3H7NO2",
-        "description": "An amino acid used in protein synthesis and energy production.",
-        "smiles": "CC(C(=O)O)N"
-    },
-    {
-        "common_name": "Palmitic Acid",
-        "molecular_formula": "C16H32O2",
-        "description": "A common saturated fatty acid found in palm oil, used in soaps and cosmetics.",
-        "smiles": "CCCCCCCCCCCCCCCC(=O)O"
-    },
-    {
-        "common_name": "Decane",
-        "molecular_formula": "C10H22",
-        "description": "Used in the production of jet fuel and as a solvent.",
-        "smiles": "CCCCCCCCCC"
-    },
-    {
-        "common_name": "Theophylline",
-        "molecular_formula": "C7H8N4O2",
-        "description": "A stimulant used to treat respiratory diseases by relaxing bronchial muscles.",
-        "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2)C"
-    },
-    {
-        "common_name": "Nickel(II) Sulfate",
-        "molecular_formula": "NiSO4",
-        "description": "Used in electroplating and as a catalyst in some chemical reactions.",
-        "smiles": "[Ni+2].[SO4-2]"
-    },
-    {
-        "common_name": "Iron(III) Sulfate",
-        "molecular_formula": "Fe2(SO4)3",
-        "description": "Used in water treatment, as a catalyst, and in some fertilizers.",
-        "smiles": "[Fe+3].[SO4-2]"
-    },
-    {
-        "common_name": "Camphor",
-        "molecular_formula": "C10H16O",
-        "description": "Used in medicinal and cosmetic products, especially for its cooling effect.",
-        "smiles": "CC1=C(C(C(C1O)C)C)C"
-    },
-    {
-        "common_name": "Copper(I) Chloride",
-        "molecular_formula": "CuCl",
-        "description": "A compound used in the preparation of copper-based catalysts and in electronics.",
-        "smiles": "[Cu+].[Cl-]"
-    },
-    {
-        "common_name": "Theobromine",
-        "molecular_formula": "C7H8N4O2",
-        "description": "A compound found in chocolate, known for its mild stimulant effects.",
-        "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C"
-    },
-    {
-        "common_name": "Paracetamol",
-        "molecular_formula": "C8H9NO2",
-        "description": "A common over-the-counter pain reliever.",
-        "smiles": "CC(=O)NC1=CC=C(O)C=C1"
-    },
-    {
-        "common_name": "Hemoglobin",
-        "molecular_formula": "C2952H4664N812O832S8Fe4",
-        "description": "A protein in red blood cells that transports oxygen from the lungs to the tissues.",
-        "smiles": "C(C(C(C(CCO)O)O)O)N"
-    },
-    {
-        "common_name": "Tryptophan",
-        "molecular_formula": "C11H12N2O2",
-        "description": "An essential amino acid involved in the production of serotonin and melatonin.",
-        "smiles": "C1=CC2=C(C=C1)C(=CN2)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Aluminum Oxide",
-        "molecular_formula": "Al2O3",
-        "description": "Used as an abrasive and in the production of aluminum metal.",
-        "smiles": "O=[Al]O[Al]=O"
-    },
-    {
-        "common_name": "Iodoform",
-        "molecular_formula": "CHI3",
-        "description": "Used in antiseptics and as a disinfectant.",
-        "smiles": "C(I)(I)I"
-    },
-    {
-        "common_name": "Lithium Hydroxide",
-        "molecular_formula": "LiOH",
-        "description": "Used in carbon dioxide scrubbing.",
-        "smiles": "[Li+].[OH-]"
-    },
-    {
-        "common_name": "Ascorbic Acid",
-        "molecular_formula": "C6H8O6",
-        "description": "Also known as Vitamin C, important for immune health.",
-        "smiles": "C(C1C(C(C(O1)O)O)O)(=O)O"
-    },
-    {
-        "common_name": "Aluminum Sulfate",
-        "molecular_formula": "Al2(SO4)3",
-        "description": "Used in water purification and as a mordant in dyeing.",
-        "smiles": "[Al+3].[SO4-2]"
-    },
-    {
-        "common_name": "Cobalt(II) Chloride",
-        "molecular_formula": "CoCl2",
-        "description": "Used in humidity indicators, as a catalyst, and in electroplating.",
-        "smiles": "[Co+2].[Cl-].[Cl-]"
-    },
-    {
-        "common_name": "Titanium Dioxide",
-        "molecular_formula": "TiO2",
-        "description": "A white pigment used in paints, sunscreens, and food products.",
-        "smiles": "O=[Ti]=O"
-    },
-    {
-        "common_name": "Isoleucine",
-        "molecular_formula": "C6H13NO2",
-        "description": "An essential amino acid that plays a key role in muscle repair and the regulation of blood sugar levels.",
-        "smiles": "CC(C)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Zinc Oxide",
-        "molecular_formula": "ZnO",
-        "description": "Used in rubber, cosmetics, and as a UV protectant in sunscreens.",
-        "smiles": "[Zn+2].[O-2]"
-    },
-    {
-        "common_name": "L-Dopa",
-        "molecular_formula": "C9H11NO4",
-        "description": "A precursor to dopamine, used in the treatment of Parkinson's disease.",
-        "smiles": "CC(C1=CC(=C(C=C1)O)O)N"
-    },
-    {
-        "common_name": "Sodium Carbonate",
-        "molecular_formula": "Na2CO3",
-        "description": "Used in glass-making and as a water softener.",
-        "smiles": "[Na+].[Na+].[O-]C(=O)[O-]"
-    },
-    {
-        "common_name": "Carbon Tetrachloride",
-        "molecular_formula": "CCl4",
-        "description": "A solvent formerly used in cleaning agents.",
-        "smiles": "C(Cl)(Cl)(Cl)Cl"
-    },
-    {
-        "common_name": "Propionic Acid",
-        "molecular_formula": "C3H6O2",
-        "description": "Used in the manufacture of preservatives, particularly in the food industry.",
-        "smiles": "CC(C)C(=O)O"
-    },
-    {
-        "common_name": "Ascorbyl Palmitate",
-        "molecular_formula": "C22H38O7",
-        "description": "A fat-soluble form of vitamin C, used as an antioxidant in cosmetics and food.",
-        "smiles": "CCCCCCCCCCCCCCCCCCC(=O)OCC(C(=O)O)C(C(=O)O)C"
-    },
-    {
-        "common_name": "Glycerol",
-        "molecular_formula": "C3H8O3",
-        "description": "A component of triglycerides, used in foods and cosmetics.",
-        "smiles": "C(C(CO)O)O"
-    },
-    {
-        "common_name": "Amylase",
-        "molecular_formula": "C12H20O7",
-        "description": "An enzyme that helps break down starch into sugars during digestion.",
-        "smiles": "C(C(C(C(CCO)O)O)O)O"
-    },
-    {
-        "common_name": "Pyruvic Acid",
-        "molecular_formula": "C3H4O3",
-        "description": "An intermediate in metabolic pathways like glycolysis.",
-        "smiles": "CC(=O)C(=O)O"
-    },
-    {
-        "common_name": "Nonadecane",
-        "molecular_formula": "C19H40",
-        "description": "Found in various oils and used as a fuel additive.",
-        "smiles": "CCCCCCCCCCCCCCCCCCCC"
-    },
-    {
-        "common_name": "Octane",
-        "molecular_formula": "C8H18",
-        "description": "A component of gasoline, used to measure its quality.",
-        "smiles": "CCCCCCCC"
-    },
-    {
-        "common_name": "Fructose",
-        "molecular_formula": "C6H12O6",
-        "description": "A sugar found in fruits, often used as a sweetener.",
-        "smiles": "C(C(C(C(CO)O)O)O)O"
-    },
-    {
-        "common_name": "Morphine",
-        "molecular_formula": "C17H19NO3",
-        "description": "A powerful opioid used for pain relief.",
-        "smiles": "CN1CCC23C4CC5=C(O)C=CC=C5C4=C[C@H]2[C@@H](O3)C=C1"
-    },
-    {
-        "common_name": "Propylene Glycol",
-        "molecular_formula": "C3H8O2",
-        "description": "Used in food, cosmetics, and as antifreeze.",
-        "smiles": "CC(O)CO"
-    },
-    {
-        "common_name": "Ammonium Chloride",
-        "molecular_formula": "NH4Cl",
-        "description": "Used in dry cell batteries and as a flavoring agent.",
-        "smiles": "[NH4+].[Cl-]"
-    },
-    {
-        "common_name": "Riboflavin (Vitamin B2)",
-        "molecular_formula": "C17H20N4O6",
-        "description": "Involved in energy production and essential for the growth and development of cells.",
-        "smiles": "C1=CC=C(C(=O)N2C(=O)C3=CC=CC=C3N2)C(=O)O"
-    },
-    {
-        "common_name": "Acetylene",
-        "molecular_formula": "C2H2",
-        "description": "A gas used in welding and as a fuel.",
-        "smiles": "C#C"
-    },
-    {
-        "common_name": "Proline",
-        "molecular_formula": "C5H9NO2",
-        "description": "An amino acid that helps stabilize protein structures and is important for collagen production.",
-        "smiles": "C1CC(C(C(=O)O)N)C1"
-    },
-    {
-        "common_name": "Leucine",
-        "molecular_formula": "C6H13NO2",
-        "description": "An essential amino acid important for protein synthesis and muscle repair.",
-        "smiles": "CC(C(C(=O)O)N)C(C)C"
-    },
-    {
-        "common_name": "Ibuprofen",
-        "molecular_formula": "C13H18O2",
-        "description": "A common pain reliever and anti-inflammatory drug.",
-        "smiles": "CC(C)Cc1ccc(cc1)C(C)C(=O)O"
-    },
-    {
-        "common_name": "Sodium Silicate",
-        "molecular_formula": "Na2SiO3",
-        "description": "Used in adhesives and fireproofing.",
-        "smiles": "[Na+].[Na+].[O-][Si](=O)[O-]"
-    },
-    {
-        "common_name": "Acetic Acid",
-        "molecular_formula": "C2H4O2",
-        "description": "The main component of vinegar, used in food and industrial applications.",
-        "smiles": "CC(=O)O"
-    },
-    {
-        "common_name": "Polyethylene",
-        "molecular_formula": "(C2H4)n",
-        "description": "A polymer used in packaging and containers.",
-        "smiles": "(CC)n"
-    },
-    {
-        "common_name": "Silver Nitrate",
-        "molecular_formula": "AgNO3",
-        "description": "Used in photography, as a disinfectant, and in the treatment of warts.",
-        "smiles": "[Ag+].[NO3-]"
-    },
-    {
-        "common_name": "Oleic Acid",
-        "molecular_formula": "C18H34O2",
-        "description": "A monounsaturated fatty acid found in olive oil and many other animal and vegetable fats.",
-        "smiles": "CCCCCCCCCCCCCCCC=CCCCCC(=O)O"
-    },
-    {
-        "common_name": "Sulfur Hexafluoride",
-        "molecular_formula": "SF6",
-        "description": "An inert, non-toxic gas used in electrical insulation.",
-        "smiles": "FS(F)(F)(F)(F)F"
-    },
-    {
-        "common_name": "Phosphine",
-        "molecular_formula": "PH3",
-        "description": "A toxic gas used in semiconductor manufacturing.",
-        "smiles": "P"
-    },
-    {
-        "common_name": "Naproxen",
-        "molecular_formula": "C14H14O3",
-        "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammation.",
-        "smiles": "CC(C)C1=CC=CC=C1C(C(C)C)C(=O)O"
-    },
-    {
-        "common_name": "Aniline",
-        "molecular_formula": "C6H7N",
-        "description": "Used in the production of dyes and rubber chemicals.",
-        "smiles": "C1=CC=C(C=C1)N"
-    },
-    {
-        "common_name": "Lactose",
-        "molecular_formula": "C12H22O11",
-        "description": "A sugar found in milk, commonly referred to as milk sugar.",
-        "smiles": "C1C(C(C(C(C1O)O)O)O)C(=O)O"
-    },
-    {
-        "common_name": "Aspartame",
-        "molecular_formula": "C14H18N2O5",
-        "description": "An artificial sweetener used in diet sodas.",
-        "smiles": "CC(CC(=O)O)NC(=O)C(C1=CC=CC=C1)N"
-    },
-    {
-        "common_name": "Ammonia",
-        "molecular_formula": "NH3",
-        "description": "Used in fertilizers and as a refrigerant gas.",
-        "smiles": "N"
-    },
-    {
-        "common_name": "Cysteine",
-        "molecular_formula": "C3H7NO2S",
-        "description": "An amino acid containing sulfur, important for protein structure and function.",
-        "smiles": "C(C(C(=O)O)N)S"
-    },
-    {
-        "common_name": "Thiamine (Vitamin B1)",
-        "molecular_formula": "C12H17N4OS",
-        "description": "An essential vitamin for the metabolism of carbohydrates.",
-        "smiles": "C1=CN(C(=O)O)C2=CC=CC=C2C(=O)N3C(=O)S"
-    },
-    {
-        "common_name": "Cellulose",
-        "molecular_formula": "C6H10O5",
-        "description": "A complex carbohydrate and major component of plant cell walls, providing structural support.",
-        "smiles": "OCC1C(C(C(C(CO)O)O)O)O"
-    },
-    {
-        "common_name": "Calcium Hydroxide",
-        "molecular_formula": "Ca(OH)2",
-        "description": "Also known as slaked lime, used in cement and soil stabilization.",
-        "smiles": "[Ca+2].[OH-].[OH-]"
-    },
-    {
-        "common_name": "Benzene",
-        "molecular_formula": "C6H6",
-        "description": "A basic aromatic hydrocarbon, used in the production of plastics and other chemicals.",
-        "smiles": "C1=CC=CC=C1"
-    },
-    {
-        "common_name": "Pyridine",
-        "molecular_formula": "C5H5N",
-        "description": "Used as a solvent and in the production of pharmaceuticals.",
-        "smiles": "C1=CC=NC=C1"
-    },
-    {
-        "common_name": "Formaldehyde",
-        "molecular_formula": "CH2O",
-        "description": "Used in the production of resins and as a preservative.",
-        "smiles": "C=O"
-    },
-    {
-        "common_name": "Malic Acid",
-        "molecular_formula": "C4H6O5",
-        "description": "Found in apples and other fruits, used as a flavor enhancer and acidulant.",
-        "smiles": "C(C(C(=O)O)C(=O)O)C"
-    },
-    {
-        "common_name": "Histidine",
-        "molecular_formula": "C6H9N3O2",
-        "description": "An amino acid that is a precursor to histamine, involved in immune response.",
-        "smiles": "C(C(C(=O)O)N)C1=NC=CN1"
-    },
-    {
-        "common_name": "Dimethyl Ether",
-        "molecular_formula": "C2H6O",
-        "description": "Used as an aerosol propellant and a refrigerant.",
-        "smiles": "COC"
-    },
-    {
-        "common_name": "Ozone",
-        "molecular_formula": "O3",
-        "description": "A form of oxygen that protects against ultraviolet rays.",
-        "smiles": "O=O=O"
-    },
-    {
-        "common_name": "Magnesium Hydroxide",
-        "molecular_formula": "Mg(OH)2",
-        "description": "Used as a laxative and an antacid.",
-        "smiles": "[Mg+2].[OH-].[OH-]"
-    },
-    {
-        "common_name": "Acetylsalicylic Acid",
-        "molecular_formula": "C9H8O4",
-        "description": "The active ingredient in aspirin, used as a pain reliever.",
-        "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O"
-    },
-    {
-        "common_name": "Carbon Monoxide",
-        "molecular_formula": "CO",
-        "description": "A colorless, odorless gas that is highly toxic.",
-        "smiles": "[C-]#[O+]"
-    },
-    {
-        "common_name": "Aluminum Chloride",
-        "molecular_formula": "AlCl3",
-        "description": "Used in organic synthesis and deodorants.",
-        "smiles": "Cl[Al](Cl)Cl"
-    },
-    {
-        "common_name": "Nitrogen",
-        "molecular_formula": "N2",
-        "description": "Makes up 78% of Earth's atmosphere, used in fertilizers.",
-        "smiles": "N#N"
-    },
-    {
-        "common_name": "Menthol",
-        "molecular_formula": "C10H20O",
-        "description": "Used in mentholated products like cough drops and ointments.",
-        "smiles": "CC1=CC(C(C(C1O)C)C)C"
-    },
-    {
-        "common_name": "Magnesium Sulfate",
-        "molecular_formula": "MgSO4",
-        "description": "Also known as Epsom salt, used in baths and as a laxative.",
-        "smiles": "[Mg+2].[O-]S(=O)(=O)[O-]"
-    },
-    {
-        "common_name": "Sodium Sulfate",
-        "molecular_formula": "Na2SO4",
-        "description": "Used in detergents and paper pulping.",
-        "smiles": "[Na+].[Na+].[O-]S(=O)(=O)[O-]"
-    },
-    {
-        "common_name": "Sucrose Octaacetate",
-        "molecular_formula": "C28H38O19",
-        "description": "Used in food coatings and flavorings.",
-        "smiles": "CC(=O)OC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C"
-    },
-    {
-        "common_name": "Ethylene Glycol",
-        "molecular_formula": "C2H6O2",
-        "description": "Used as an antifreeze in automobile engines.",
-        "smiles": "C(CO)O"
-    },
-    {
-        "common_name": "Stevia",
-        "molecular_formula": "C38H60O18",
-        "description": "A natural, plant-derived sweetener with no calories, used as an alternative to sugar.",
-        "smiles": "CC(=O)OC1=CC(=O)C(C(=O)O)C(C)C(=O)O"
-    },
-    {
-        "common_name": "Glutamine",
-        "molecular_formula": "C5H10N2O3",
-        "description": "An amino acid important for protein synthesis and nitrogen balance in the body.",
-        "smiles": "C(C(C(=O)O)N)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Isopropanol",
-        "molecular_formula": "C3H8O",
-        "description": "Commonly used as rubbing alcohol and a disinfectant.",
-        "smiles": "CC(O)C"
-    },
-    {
-        "common_name": "Melatonin",
-        "molecular_formula": "C13H16N2O2",
-        "description": "A hormone that regulates sleep-wake cycles and circadian rhythms.",
-        "smiles": "CC1=CC2=C(C=C1)C(=CN2)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Hexanoic Acid",
-        "molecular_formula": "C6H12O2",
-        "description": "A fatty acid with a rancid odor, used in flavoring, and in the manufacture of esters for fragrances.",
-        "smiles": "CCCCCC(=O)O"
-    },
-    {
-        "common_name": "Hexane",
-        "molecular_formula": "C6H14",
-        "description": "A solvent commonly used in laboratories.",
-        "smiles": "CCCCCC"
-    },
-    {
-        "common_name": "Silicon Dioxide",
-        "molecular_formula": "SiO2",
-        "description": "Found in quartz; used in glass making.",
-        "smiles": "O=[Si]=O"
-    },
-    {
-        "common_name": "GABA (Gamma-Aminobutyric Acid)",
-        "molecular_formula": "C4H9NO2",
-        "description": "An inhibitory neurotransmitter that helps reduce neuronal excitability throughout the nervous system.",
-        "smiles": "C(C(C(=O)O)N)CCO"
-    },
-    {
-        "common_name": "Nonane",
-        "molecular_formula": "C9H20",
-        "description": "Used in the synthesis of other organic compounds.",
-        "smiles": "CCCCCCCCC"
-    },
-    {
-        "common_name": "Biotin (Vitamin B7)",
-        "molecular_formula": "C10H16N2O3S",
-        "description": "Important for the metabolism of fatty acids, amino acids, and glucose.",
-        "smiles": "C1=CC(=O)N2C(=O)C3=CC=CC=C3N2S"
-    },
-    {
-        "common_name": "Meloxicam",
-        "molecular_formula": "C14H13N3O4S2",
-        "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat osteoarthritis and rheumatoid arthritis.",
-        "smiles": "CC(C1=CC=CC=C1)C(=O)O"
-    },
-    {
-        "common_name": "Linalool",
-        "molecular_formula": "C10H18O",
-        "description": "A fragrant compound found in lavender, used in perfumes.",
-        "smiles": "CC(C)C1=CC(=C(C=C1)O)C(C)C"
-    },
-    {
-        "common_name": "Acetophenone",
-        "molecular_formula": "C8H8O",
-        "description": "A compound with a sweet aroma, used in perfumes and flavorings.",
-        "smiles": "CC(=O)C1=CC=CC=C1"
-    },
-    {
-        "common_name": "Serotonin",
-        "molecular_formula": "C10H12N2O",
-        "description": "A neurotransmitter involved in regulating mood, sleep, and appetite.",
-        "smiles": "C1=CC(=C(C=C1C2=CN(C=C2)C)O)O"
-    },
-    {
-        "common_name": "Boron Trifluoride",
-        "molecular_formula": "BF3",
-        "description": "Used as a catalyst in chemical reactions and in the production of high-temperature materials.",
-        "smiles": "B(F)(F)(F)"
-    },
-    {
-        "common_name": "Dichloromethane",
-        "molecular_formula": "CH2Cl2",
-        "description": "A solvent used in paint removers and degreasing.",
-        "smiles": "C(Cl)Cl"
-    },
-    {
-        "common_name": "Histamine",
-        "molecular_formula": "C5H9N3",
-        "description": "A compound involved in immune responses, playing a role in allergic reactions.",
-        "smiles": "CC1=CC=CC=C1O"
-    },
-    {
-        "common_name": "Acetaldehyde",
-        "molecular_formula": "C2H4O",
-        "description": "A byproduct of ethanol metabolism in the body, and a key intermediate in the production of acetic acid.",
-        "smiles": "CC=O"
-    },
-    {
-        "common_name": "Acetohydroxamic Acid",
-        "molecular_formula": "C2H5NO2",
-        "description": "Used in the treatment of urinary tract infections and as a reagent in organic synthesis.",
-        "smiles": "CC(=O)N(O)O"
-    },
-    {
-        "common_name": "Cortisol",
-        "molecular_formula": "C21H30O5",
-        "description": "A steroid hormone produced by the adrenal glands, involved in stress responses and metabolism.",
-        "smiles": "CC(=O)C(C(=O)O)CC(=O)CC(=O)C1CC2CCC(C1)C2"
-    },
-    {
-        "common_name": "Serine",
-        "molecular_formula": "C3H7NO3",
-        "description": "An amino acid involved in the synthesis of proteins and enzymes.",
-        "smiles": "C(C(C(=O)O)N)O"
-    },
-    {
-        "common_name": "Vitamin A",
-        "molecular_formula": "C20H30O",
-        "description": "Important for vision and immune function, commonly found in carrots.",
-        "smiles": "CC(=O)C1=CC(C=CC=CC=CC=CC=1)C(C(=O)O)C"
-    },
-    {
-        "common_name": "LSD (Lysergic Acid Diethylamide)",
-        "molecular_formula": "C20H25N3O",
-        "description": "A powerful hallucinogenic drug, known for its psychedelic effects.",
-        "smiles": "CN1C=NC2=C1C(=CN2)C"
-    },
-    {
-        "common_name": "Copper(II) Sulfate",
-        "molecular_formula": "CuSO4",
-        "description": "Used as a fungicide, herbicide, and in electroplating.",
-        "smiles": "[Cu+2].[SO4-2]"
-    },
-    {
-        "common_name": "Styrene",
-        "molecular_formula": "C8H8",
-        "description": "A compound used in the production of plastics and synthetic rubbers.",
-        "smiles": "C1=CC=C(C=C1)C=C"
-    },
-    {
-        "common_name": "Vitamin B12",
-        "molecular_formula": "C63H88CoN14O14P",
-        "description": "Essential for nerve function and red blood cell production.",
-        "smiles": "C1=CC(=O)N2C(=O)C3=CC=CC=C3C4CC5C6N6C7C(=O)O"
-    },
-    {
-        "common_name": "Folic Acid (Vitamin B9)",
-        "molecular_formula": "C19H19N7O6",
-        "description": "Important for cell division and the production of DNA.",
-        "smiles": "C1=CC(=O)N2C(=O)C3=CC=CC=C3N2C4CCCCC4"
-    },
-    {
-        "common_name": "Codeine",
-        "molecular_formula": "C18H21NO3",
-        "description": "An opioid used for mild pain and cough suppression.",
-        "smiles": "CN1CCC23C4CC5=C(O)C=CC=C5C4=C[C@H]2[C@@H](O3)C=C1C"
-    },
-    {
-        "common_name": "Butanol",
-        "molecular_formula": "C4H10O",
-        "description": "A solvent used in industrial processes, including in the production of plastics.",
-        "smiles": "CCCCO"
-    },
-    {
-        "common_name": "Vitamin C",
-        "molecular_formula": "C6H8O6",
-        "description": "An essential nutrient for humans, also known as ascorbic acid, important for immune function.",
-        "smiles": "C(C(=O)O)C(C(=O)O)C(C(=O)O)C(C(=O)O)C(=O)O"
-    },
-    {
-        "common_name": "Hydrogen Cyanide",
-        "molecular_formula": "HCN",
-        "description": "A toxic compound used in chemical manufacturing.",
-        "smiles": "C#N"
-    },
-    {
-        "common_name": "Hydrobromic Acid",
-        "molecular_formula": "HBr",
-        "description": "Used in the production of bromide compounds.",
-        "smiles": "Br"
-    },
-    {
-        "common_name": "Butane",
-        "molecular_formula": "C4H10",
-        "description": "A gas used in lighters and portable stoves.",
-        "smiles": "CCCC"
-    },
-    {
-        "common_name": "Dopamine",
-        "molecular_formula": "C8H11NO2",
-        "description": "A neurotransmitter that plays a major role in the brain's reward and pleasure centers.",
-        "smiles": "C1=CC(=C(C=C1)O)C(C(=O)O)N"
-    },
-    {
-        "common_name": "Diphenhydramine",
-        "molecular_formula": "C17H21NO",
-        "description": "An antihistamine commonly used to treat allergy symptoms, insomnia, and motion sickness.",
-        "smiles": "CC(C1=CC=CC=C1)N(CC)C"
-    },
-    {
-        "common_name": "Acetone",
-        "molecular_formula": "C3H6O",
-        "description": "A solvent commonly used in nail polish remover.",
-        "smiles": "CC(=O)C"
-    },
-    {
-        "common_name": "Nitric Oxide",
-        "molecular_formula": "NO",
-        "description": "A molecule involved in vasodilation and signaling, playing a role in blood pressure regulation.",
-        "smiles": "N=O"
-    },
-    {
-        "common_name": "Stearic Acid",
-        "molecular_formula": "C18H36O2",
-        "description": "A saturated fatty acid used in the production of soaps, cosmetics, and as a lubricant.",
-        "smiles": "CCCCCCCCCCCCCCCCCCCC(=O)O"
-    },
-    {
-        "common_name": "Propylene",
-        "molecular_formula": "C3H6",
-        "description": "A hydrocarbon used in plastics and organic synthesis.",
-        "smiles": "C=CC"
-    },
-    {
-        "common_name": "Gold(III) Chloride",
-        "molecular_formula": "AuCl3",
-        "description": "Used in various gold applications and as a catalyst in some chemical reactions.",
-        "smiles": "[Au+3].[Cl-].[Cl-].[Cl-]"
-    },
-    {
-        "common_name": "Paracetamol (Acetaminophen)",
-        "molecular_formula": "C8H9NO2",
-        "description": "A common over-the-counter pain reliever and fever reducer.",
-        "smiles": "CC(=O)NC1=CC=CC=C1O"
-    },
-    {
-        "common_name": "Copper Sulfate",
-        "molecular_formula": "CuSO4",
-        "description": "Used as a fungicide and in electroplating.",
-        "smiles": "[Cu+2].[O-]S(=O)(=O)[O-]"
-    },
-    {
-        "common_name": "Cannabidiol (CBD)",
-        "molecular_formula": "C21H30O2",
-        "description": "A non-psychoactive compound found in cannabis, known for its therapeutic effects.",
-        "smiles": "CC(C1=C(C2C(C1C(C(C2O)O)C)C)C)C"
-    },
-    {
-        "common_name": "Threonine",
-        "molecular_formula": "C4H9NO3",
-        "description": "An essential amino acid important for protein synthesis and immune function.",
-        "smiles": "CC(C(C(=O)O)N)O"
-    },
-    {
-        "common_name": "Methanol",
-        "molecular_formula": "CH4O",
-        "description": "Also known as wood alcohol, used as a fuel and solvent.",
-        "smiles": "CO"
-    },
-    {
-        "common_name": "Keratin",
-        "molecular_formula": "C48H74N2O15S2",
-        "description": "A fibrous structural protein found in hair, nails, and skin, providing strength and protection.",
-        "smiles": "C(C(C(C(CO)O)O)S)O"
-    },
-    {
-        "common_name": "Sodium Nitrate",
-        "molecular_formula": "NaNO3",
-        "description": "Used in fertilizers and food preservation.",
-        "smiles": "[Na+].[N+](=O)[O-]"
-    },
-    {
-        "common_name": "Mercury(II) Chloride",
-        "molecular_formula": "HgCl2",
-        "description": "A highly toxic compound used in preserving specimens and in some chemical reactions.",
-        "smiles": "Cl[Hg+2]Cl"
-    },
-    {
-        "common_name": "Ethanol",
-        "molecular_formula": "C2H6O",
-        "description": "An alcohol found in alcoholic beverages, also used as a solvent and fuel.",
-        "smiles": "CCO"
-    },
-    {
-        "common_name": "Acetaminophen",
-        "molecular_formula": "C8H9NO2",
-        "description": "A common pain reliever and fever reducer.",
-        "smiles": "CC(=O)Nc1ccc(O)cc1"
-    },
-    {
-        "common_name": "Nitroglycerin",
-        "molecular_formula": "C3H5N3O9",
-        "description": "An explosive compound also used in heart medication.",
-        "smiles": "C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]"
-    },
-    {
-        "common_name": "Octacosane",
-        "molecular_formula": "C28H58",
-        "description": "Used as an ingredient in wax formulations and lubricants.",
-        "smiles": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
-    },
-    {
-        "common_name": "Magnesium Carbonate",
-        "molecular_formula": "MgCO3",
-        "description": "Used in pharmaceuticals, as a drying agent, and in the production of magnesium metal.",
-        "smiles": "[Mg+2].[C](=O)(O)[O-]"
-    },
-    {
-        "common_name": "Isopropyl Alcohol",
-        "molecular_formula": "C3H8O",
-        "description": "Used as a disinfectant and solvent.",
-        "smiles": "CC(C)O"
-    },
-    {
-        "common_name": "Calcium Phosphate",
-        "molecular_formula": "Ca3(PO4)2",
-        "description": "Used in fertilizers and as a food additive.",
-        "smiles": "[Ca+2].[Ca+2].[Ca+2].[O-]P(=O)([O-])[O-]"
-    },
-    {
-        "common_name": "Maltose",
-        "molecular_formula": "C12H22O11",
-        "description": "A sugar formed during the digestion of starch.",
-        "smiles": "C1C(C(C(C(C(C1O)O)O)O)O)C(=O)O"
-    },
-    {
-        "common_name": "Zinc Sulfate",
-        "molecular_formula": "ZnSO4",
-        "description": "Used in agriculture, as a dietary supplement, and in the treatment of skin conditions.",
-        "smiles": "[Zn+2].[SO4-2]"
-    },
-    {
-        "common_name": "Xylene",
-        "molecular_formula": "C8H10",
-        "description": "A solvent used in the printing and leather industries.",
-        "smiles": "CC1=CC=CC=C1C"
-    },
-    {
-        "common_name": "Adrenaline",
-        "molecular_formula": "C9H13NO3",
-        "description": "A hormone and neurotransmitter responsible for the fight-or-flight response.",
-        "smiles": "CC(C1=CC=CC=C1O)C(=O)N"
-    },
-    {
-        "common_name": "Helium",
-        "molecular_formula": "He",
-        "description": "A noble gas used in balloons and as a coolant.",
-        "smiles": "[He]"
-    },
-    {
-        "common_name": "Urea",
-        "molecular_formula": "CH4N2O",
-        "description": "A nitrogen-rich compound widely used in fertilizers.",
-        "smiles": "C(=O)(N)N"
-    },
-    {
-        "common_name": "Isobutane",
-        "molecular_formula": "C4H10",
-        "description": "A branched isomer of butane, commonly used as a refrigerant.",
-        "smiles": "CC(C)C"
-    },
-    {
-        "common_name": "Isopentane",
-        "molecular_formula": "C5H12",
-        "description": "Used in the production of expanded polystyrene foam.",
-        "smiles": "CC(C)CC"
-    },
-    {
-        "common_name": "Uric Acid",
-        "molecular_formula": "C5H4N4O3",
-        "description": "A waste product of purine metabolism, excreted in urine.",
-        "smiles": "C1=NC2=C(N1)C(=O)N(C(=O)N2C)C"
-    },
-    {
-        "common_name": "Ethane",
-        "molecular_formula": "C2H6",
-        "description": "A simple alkane found in natural gas and petroleum.",
-        "smiles": "CC"
-    },
-    {
-        "common_name": "Chloroform",
-        "molecular_formula": "CHCl3",
-        "description": "A solvent and anesthetic historically used in surgeries.",
-        "smiles": "C(Cl)(Cl)Cl"
-    },
-    {
-        "common_name": "Diethyl Ether",
-        "molecular_formula": "C4H10O",
-        "description": "An early anesthetic and a laboratory solvent.",
-        "smiles": "CCOCC"
-    },
-    {
-        "common_name": "Aspartic Acid",
-        "molecular_formula": "C4H7NO4",
-        "description": "An amino acid involved in metabolism and the synthesis of other amino acids.",
-        "smiles": "C(C(C(=O)O)N)C(=O)O"
-    },
-    {
-        "common_name": "Calcium Carbonate",
-        "molecular_formula": "CaCO3",
-        "description": "Found in limestone and used as a dietary calcium supplement.",
-        "smiles": "O=C([O-])[O-].[Ca+2]"
-    }
-]
+{
+   "start-date": "23/11/24",
+   "data": [
+      {
+         "common_name": "Water",
+         "molecular_formula": "H2O",
+         "description": "Essential for all known forms of life; commonly used as a solvent.",
+         "smiles": "O"
+      },
+      {
+         "common_name": "Methane",
+         "molecular_formula": "CH4",
+         "description": "Main component of natural gas, used as a fuel.",
+         "smiles": "C"
+      },
+      {
+         "common_name": "Carbon Dioxide",
+         "molecular_formula": "CO2",
+         "description": "A gas produced by burning carbon and organic compounds; a key greenhouse gas.",
+         "smiles": "O=C=O"
+      },
+      {
+         "common_name": "Acetic Acid",
+         "molecular_formula": "C2H4O2",
+         "description": "The main component of vinegar, used in food and industrial applications.",
+         "smiles": "CC(=O)O"
+      },
+      {
+         "common_name": "Sodium Chloride",
+         "molecular_formula": "NaCl",
+         "description": "Common table salt, used in food and chemical industries.",
+         "smiles": "[Na+].[Cl-]"
+      },
+      {
+         "common_name": "Ethanol",
+         "molecular_formula": "C2H6O",
+         "description": "An alcohol found in alcoholic beverages, also used as a solvent and fuel.",
+         "smiles": "CCO"
+      },
+      {
+         "common_name": "Glucose",
+         "molecular_formula": "C6H12O6",
+         "description": "A simple sugar that is an important energy source in living organisms.",
+         "smiles": "C(C1C(C(C(C(O1)O)O)O)O)O"
+      },
+      {
+         "common_name": "Ammonia",
+         "molecular_formula": "NH3",
+         "description": "Used in fertilizers and as a refrigerant gas.",
+         "smiles": "N"
+      },
+      {
+         "common_name": "Sulfuric Acid",
+         "molecular_formula": "H2SO4",
+         "description": "A highly corrosive acid used in batteries and industrial processes.",
+         "smiles": "OS(=O)(=O)O"
+      },
+      {
+         "common_name": "Benzene",
+         "molecular_formula": "C6H6",
+         "description": "A basic aromatic hydrocarbon, used in the production of plastics and other chemicals.",
+         "smiles": "C1=CC=CC=C1"
+      },
+      {
+         "common_name": "Hydrogen Peroxide",
+         "molecular_formula": "H2O2",
+         "description": "A common disinfectant and bleaching agent.",
+         "smiles": "OO"
+      },
+      {
+         "common_name": "Citric Acid",
+         "molecular_formula": "C6H8O7",
+         "description": "Naturally found in citrus fruits, used as a preservative and flavoring agent.",
+         "smiles": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O"
+      },
+      {
+         "common_name": "Caffeine",
+         "molecular_formula": "C8H10N4O2",
+         "description": "A stimulant found in coffee, tea, and energy drinks.",
+         "smiles": "Cn1cnc2c1c(=O)n(c(=O)n2C)C"
+      },
+      {
+         "common_name": "Sodium Hydroxide",
+         "molecular_formula": "NaOH",
+         "description": "Also known as lye, used in soap making and as a strong base in chemistry.",
+         "smiles": "[Na+].[OH-]"
+      },
+      {
+         "common_name": "Acetone",
+         "molecular_formula": "C3H6O",
+         "description": "A solvent commonly used in nail polish remover.",
+         "smiles": "CC(=O)C"
+      },
+      {
+         "common_name": "Ibuprofen",
+         "molecular_formula": "C13H18O2",
+         "description": "A common pain reliever and anti-inflammatory drug.",
+         "smiles": "CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+      },
+      {
+         "common_name": "Sodium Carbonate",
+         "molecular_formula": "Na2CO3",
+         "description": "Used in glass-making and as a water softener.",
+         "smiles": "[Na+].[Na+].[O-]C(=O)[O-]"
+      },
+      {
+         "common_name": "Propane",
+         "molecular_formula": "C3H8",
+         "description": "A fuel commonly used for heating and cooking.",
+         "smiles": "CCC"
+      },
+      {
+         "common_name": "Nitric Acid",
+         "molecular_formula": "HNO3",
+         "description": "A highly corrosive acid used in fertilizers and explosives.",
+         "smiles": "O=N(=O)O"
+      },
+      {
+         "common_name": "Calcium Carbonate",
+         "molecular_formula": "CaCO3",
+         "description": "Found in limestone and used as a dietary calcium supplement.",
+         "smiles": "O=C([O-])[O-].[Ca+2]"
+      },
+      {
+         "common_name": "Sodium Hypochlorite",
+         "molecular_formula": "NaClO",
+         "description": "The active ingredient in household bleach.",
+         "smiles": "[Na+].[O-]Cl"
+      },
+      {
+         "common_name": "Sucrose",
+         "molecular_formula": "C12H22O11",
+         "description": "Common table sugar, widely used as a sweetener.",
+         "smiles": "C1(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O"
+      },
+      {
+         "common_name": "Hydrochloric Acid",
+         "molecular_formula": "HCl",
+         "description": "A strong acid used in cleaning and chemical synthesis.",
+         "smiles": "Cl"
+      },
+      {
+         "common_name": "Potassium Nitrate",
+         "molecular_formula": "KNO3",
+         "description": "Used in fertilizers and historically in gunpowder.",
+         "smiles": "[K+].[N+](=O)([O-])[O-]"
+      },
+      {
+         "common_name": "Toluene",
+         "molecular_formula": "C7H8",
+         "description": "A solvent and precursor to many chemical syntheses.",
+         "smiles": "Cc1ccccc1"
+      },
+      {
+         "common_name": "Isopropanol",
+         "molecular_formula": "C3H8O",
+         "description": "Commonly used as rubbing alcohol and a disinfectant.",
+         "smiles": "CC(O)C"
+      },
+      {
+         "common_name": "Magnesium Sulfate",
+         "molecular_formula": "MgSO4",
+         "description": "Also known as Epsom salt, used in baths and as a laxative.",
+         "smiles": "[Mg+2].[O-]S(=O)(=O)[O-]"
+      },
+      {
+         "common_name": "Sodium Sulfate",
+         "molecular_formula": "Na2SO4",
+         "description": "Used in detergents and paper pulping.",
+         "smiles": "[Na+].[Na+].[O-]S(=O)(=O)[O-]"
+      },
+      {
+         "common_name": "Methanol",
+         "molecular_formula": "CH4O",
+         "description": "Also known as wood alcohol, used as a fuel and solvent.",
+         "smiles": "CO"
+      },
+      {
+         "common_name": "Hexane",
+         "molecular_formula": "C6H14",
+         "description": "A solvent commonly used in laboratories.",
+         "smiles": "CCCCCC"
+      },
+      {
+         "common_name": "Urea",
+         "molecular_formula": "CH4N2O",
+         "description": "A nitrogen-rich compound widely used in fertilizers.",
+         "smiles": "C(=O)(N)N"
+      },
+      {
+         "common_name": "Aspirin",
+         "molecular_formula": "C9H8O4",
+         "description": "A pain reliever and anti-inflammatory drug.",
+         "smiles": "CC(=O)Oc1ccccc1C(=O)O"
+      },
+      {
+         "common_name": "Phenol",
+         "molecular_formula": "C6H6O",
+         "description": "A disinfectant and precursor to plastics.",
+         "smiles": "C1=CC=C(C=C1)O"
+      },
+      {
+         "common_name": "Glycerol",
+         "molecular_formula": "C3H8O3",
+         "description": "A component of triglycerides, used in foods and cosmetics.",
+         "smiles": "C(C(CO)O)O"
+      },
+      {
+         "common_name": "Formic Acid",
+         "molecular_formula": "CH2O2",
+         "description": "The simplest carboxylic acid, found in ant venom.",
+         "smiles": "C(=O)O"
+      },
+      {
+         "common_name": "Butane",
+         "molecular_formula": "C4H10",
+         "description": "A gas used in lighters and portable stoves.",
+         "smiles": "CCCC"
+      },
+      {
+         "common_name": "Ethylene Glycol",
+         "molecular_formula": "C2H6O2",
+         "description": "Used as an antifreeze in automobile engines.",
+         "smiles": "C(CO)O"
+      },
+      {
+         "common_name": "Calcium Hydroxide",
+         "molecular_formula": "Ca(OH)2",
+         "description": "Also known as slaked lime, used in cement and soil stabilization.",
+         "smiles": "[Ca+2].[OH-].[OH-]"
+      },
+      {
+         "common_name": "Potassium Hydroxide",
+         "molecular_formula": "KOH",
+         "description": "A strong base used in soap making and as a drain cleaner.",
+         "smiles": "[K+].[OH-]"
+      },
+      {
+         "common_name": "Acetamide",
+         "molecular_formula": "C2H5NO",
+         "description": "An organic compound used as a plasticizer and solvent.",
+         "smiles": "CC(=O)N"
+      },
+      {
+         "common_name": "Lactic Acid",
+         "molecular_formula": "C3H6O3",
+         "description": "Produced in muscles during exercise; used in food preservation.",
+         "smiles": "CC(C(=O)O)O"
+      },
+      {
+         "common_name": "Pyruvic Acid",
+         "molecular_formula": "C3H4O3",
+         "description": "An intermediate in metabolic pathways like glycolysis.",
+         "smiles": "CC(=O)C(=O)O"
+      },
+      {
+         "common_name": "Propylene",
+         "molecular_formula": "C3H6",
+         "description": "A hydrocarbon used in plastics and organic synthesis.",
+         "smiles": "C=CC"
+      },
+      {
+         "common_name": "Tartaric Acid",
+         "molecular_formula": "C4H6O6",
+         "description": "Used in baking powders and as an acidulant in food.",
+         "smiles": "OC(=O)C(C(C(=O)O)O)O"
+      },
+      {
+         "common_name": "Xylene",
+         "molecular_formula": "C8H10",
+         "description": "A solvent used in the printing and leather industries.",
+         "smiles": "CC1=CC=CC=C1C"
+      },
+      {
+         "common_name": "Ammonium Nitrate",
+         "molecular_formula": "NH4NO3",
+         "description": "Used in fertilizers and explosives.",
+         "smiles": "[NH4+].[N+](=O)([O-])[O-]"
+      },
+      {
+         "common_name": "Phosphoric Acid",
+         "molecular_formula": "H3PO4",
+         "description": "Used in fertilizers, food flavoring, and rust removal.",
+         "smiles": "O=P(O)(O)O"
+      },
+      {
+         "common_name": "Calcium Chloride",
+         "molecular_formula": "CaCl2",
+         "description": "A salt used for de-icing roads and as a drying agent.",
+         "smiles": "[Ca+2].[Cl-].[Cl-]"
+      },
+      {
+         "common_name": "Silicon Dioxide",
+         "molecular_formula": "SiO2",
+         "description": "Found in quartz; used in glass making.",
+         "smiles": "O=[Si]=O"
+      },
+      {
+         "common_name": "Chlorine",
+         "molecular_formula": "Cl2",
+         "description": "A yellow-green gas used as a disinfectant and in water treatment.",
+         "smiles": "ClCl"
+      },
+      {
+         "common_name": "Diethyl Ether",
+         "molecular_formula": "C4H10O",
+         "description": "An early anesthetic and a laboratory solvent.",
+         "smiles": "CCOCC"
+      },
+      {
+         "common_name": "Ethylene",
+         "molecular_formula": "C2H4",
+         "description": "A plant hormone and a precursor in the production of plastics.",
+         "smiles": "C=C"
+      },
+      {
+         "common_name": "Propylene Glycol",
+         "molecular_formula": "C3H8O2",
+         "description": "Used in food, cosmetics, and as antifreeze.",
+         "smiles": "CC(O)CO"
+      },
+      {
+         "common_name": "Potassium Chloride",
+         "molecular_formula": "KCl",
+         "description": "Used in fertilizers and as a salt substitute.",
+         "smiles": "[K+].[Cl-]"
+      },
+      {
+         "common_name": "Aluminum Oxide",
+         "molecular_formula": "Al2O3",
+         "description": "Used as an abrasive and in the production of aluminum metal.",
+         "smiles": "O=[Al]O[Al]=O"
+      },
+      {
+         "common_name": "Carbon Monoxide",
+         "molecular_formula": "CO",
+         "description": "A colorless, odorless gas that is highly toxic.",
+         "smiles": "[C-]#[O+]"
+      },
+      {
+         "common_name": "Calcium Sulfate",
+         "molecular_formula": "CaSO4",
+         "description": "Used in construction materials like plaster and drywall.",
+         "smiles": "[Ca+2].[O-]S(=O)(=O)[O-]"
+      },
+      {
+         "common_name": "Ethyl Acetate",
+         "molecular_formula": "C4H8O2",
+         "description": "A solvent commonly used in nail polish removers.",
+         "smiles": "CCOC(=O)C"
+      },
+      {
+         "common_name": "Hydrogen Sulfide",
+         "molecular_formula": "H2S",
+         "description": "A toxic gas with a characteristic rotten egg smell.",
+         "smiles": "S"
+      },
+      {
+         "common_name": "Phenylalanine",
+         "molecular_formula": "C9H11NO2",
+         "description": "An essential amino acid used in protein synthesis.",
+         "smiles": "C1=CC=C(C=C1)CC(C(=O)O)N"
+      },
+      {
+         "common_name": "Calcium Phosphate",
+         "molecular_formula": "Ca3(PO4)2",
+         "description": "Used in fertilizers.",
+         "smiles": "[Ca+2].[Ca+2].[Ca+2].[O-]P(=O)([O-])[O-]"
+      },
+      {
+         "common_name": "Ammonium Chloride",
+         "molecular_formula": "NH4Cl",
+         "description": "Used in dry cell batteries.",
+         "smiles": "[NH4+].[Cl-]"
+      },
+      {
+         "common_name": "Phosphine",
+         "molecular_formula": "PH3",
+         "description": "A toxic gas used in semiconductor manufacturing.",
+         "smiles": "P"
+      },
+      {
+         "common_name": "Hydrofluoric Acid",
+         "molecular_formula": "HF",
+         "description": "Used for etching glass and cleaning metals.",
+         "smiles": "F"
+      },
+      {
+         "common_name": "Potassium Permanganate",
+         "molecular_formula": "KMnO4",
+         "description": "An oxidizing agent used in water treatment and disinfection.",
+         "smiles": "[K+].[O-][Mn](=O)(=O)=O"
+      },
+      {
+         "common_name": "Dimethyl Ether",
+         "molecular_formula": "C2H6O",
+         "description": "Used as an aerosol propellant and a refrigerant.",
+         "smiles": "COC"
+      },
+      {
+         "common_name": "Acetylene",
+         "molecular_formula": "C2H2",
+         "description": "A gas used in welding and as a fuel.",
+         "smiles": "C#C"
+      },
+      {
+         "common_name": "Ascorbic Acid",
+         "molecular_formula": "C6H8O6",
+         "description": "Also known as Vitamin C, important for immune health.",
+         "smiles": "C(C1C(C(C(O1)O)O)O)(=O)O"
+      },
+      {
+         "common_name": "Aniline",
+         "molecular_formula": "C6H7N",
+         "description": "Used in the production of dyes and rubber chemicals.",
+         "smiles": "C1=CC=C(C=C1)N"
+      },
+      {
+         "common_name": "Boric Acid",
+         "molecular_formula": "H3BO3",
+         "description": "Used as an antiseptic and in eyewash solutions.",
+         "smiles": "B(O)(O)O"
+      },
+      {
+         "common_name": "Erythritol",
+         "molecular_formula": "C4H10O4",
+         "description": "A sugar substitute used in low-calorie foods.",
+         "smiles": "C(C(C(CO)O)O)O"
+      },
+      {
+         "common_name": "Allyl Alcohol",
+         "molecular_formula": "C3H6O",
+         "description": "Used in the production of resins and plasticizers.",
+         "smiles": "C=CCO"
+      },
+      {
+         "common_name": "Dichloromethane",
+         "molecular_formula": "CH2Cl2",
+         "description": "A solvent used in paint removers and degreasing.",
+         "smiles": "C(Cl)Cl"
+      },
+      {
+         "common_name": "Pyridine",
+         "molecular_formula": "C5H5N",
+         "description": "Used as a solvent and in the production of pharmaceuticals.",
+         "smiles": "C1=CC=NC=C1"
+      },
+      {
+         "common_name": "Fumaric Acid",
+         "molecular_formula": "C4H4O4",
+         "description": "Used as a food additive and in medicine.",
+         "smiles": "C(=C/C(=O)O)\\C(=O)O"
+      },
+      {
+         "common_name": "Glycine",
+         "molecular_formula": "C2H5NO2",
+         "description": "The simplest amino acid, used in protein synthesis.",
+         "smiles": "C(C(=O)O)N"
+      },
+      {
+         "common_name": "Carbon Tetrachloride",
+         "molecular_formula": "CCl4",
+         "description": "A solvent formerly used in cleaning agents.",
+         "smiles": "C(Cl)(Cl)(Cl)Cl"
+      },
+      {
+         "common_name": "Lithium Hydroxide",
+         "molecular_formula": "LiOH",
+         "description": "Used in carbon dioxide scrubbing.",
+         "smiles": "[Li+].[OH-]"
+      },
+      {
+         "common_name": "Hydrogen",
+         "molecular_formula": "H2",
+         "description": "The most abundant element in the universe, used in fuel cells.",
+         "smiles": "[H][H]"
+      },
+      {
+         "common_name": "Oxygen",
+         "molecular_formula": "O2",
+         "description": "Essential for respiration and supports combustion.",
+         "smiles": "O=O"
+      },
+      {
+         "common_name": "Nitrogen",
+         "molecular_formula": "N2",
+         "description": "Makes up 78% of Earth's atmosphere, used in fertilizers.",
+         "smiles": "N#N"
+      },
+      {
+         "common_name": "Helium",
+         "molecular_formula": "He",
+         "description": "A noble gas used in balloons and as a coolant.",
+         "smiles": "[He]"
+      },
+      {
+         "common_name": "Sodium Nitrate",
+         "molecular_formula": "NaNO3",
+         "description": "Used in fertilizers and food preservation.",
+         "smiles": "[Na+].[N+](=O)[O-]"
+      },
+      {
+         "common_name": "Nitroglycerin",
+         "molecular_formula": "C3H5N3O9",
+         "description": "An explosive compound also used in heart medication.",
+         "smiles": "C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]"
+      },
+      {
+         "common_name": "Aspartame",
+         "molecular_formula": "C14H18N2O5",
+         "description": "An artificial sweetener used in diet sodas.",
+         "smiles": "CC(CC(=O)O)NC(=O)C(C1=CC=CC=C1)N"
+      },
+      {
+         "common_name": "Copper Sulfate",
+         "molecular_formula": "CuSO4",
+         "description": "Used as a fungicide and in electroplating.",
+         "smiles": "[Cu+2].[O-]S(=O)(=O)[O-]"
+      },
+      {
+         "common_name": "Aluminum Chloride",
+         "molecular_formula": "AlCl3",
+         "description": "Used in organic synthesis and deodorants.",
+         "smiles": "Cl[Al](Cl)Cl"
+      },
+      {
+         "common_name": "Capsaicin",
+         "molecular_formula": "C18H27NO3",
+         "description": "The compound that gives chili peppers their heat.",
+         "smiles": "CCCCC=CC(=O)NC1=CC=C(C=C1O)OCC2CCCCC2"
+      },
+      {
+         "common_name": "Sodium Silicate",
+         "molecular_formula": "Na2SiO3",
+         "description": "Used in adhesives and fireproofing.",
+         "smiles": "[Na+].[Na+].[O-][Si](=O)[O-]"
+      },
+      {
+         "common_name": "Folic Acid",
+         "molecular_formula": "C19H19N7O6",
+         "description": "A vitamin essential for DNA synthesis.",
+         "smiles": "CC1=C(C(=O)NC(=O)N1)NC2=NC=NC3=C2C=CC=C3"
+      },
+      {
+         "common_name": "Sucrose Octaacetate",
+         "molecular_formula": "C28H38O19",
+         "description": "Used in food coatings and flavorings.",
+         "smiles": "CC(=O)OC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C"
+      },
+      {
+         "common_name": "Benzoic Acid",
+         "molecular_formula": "C7H6O2",
+         "description": "A preservative used in food and beverages.",
+         "smiles": "C1=CC=C(C=C1)C(=O)O"
+      },
+      {
+         "common_name": "Isoprene",
+         "molecular_formula": "C5H8",
+         "description": "A building block for natural rubber.",
+         "smiles": "C=C(C)C=C"
+      },
+      {
+         "common_name": "Acetic Anhydride",
+         "molecular_formula": "C4H6O3",
+         "description": "Used in chemical synthesis and acetylation processes.",
+         "smiles": "CC(=O)OC(=O)C"
+      },
+      {
+         "common_name": "Sulfur Hexafluoride",
+         "molecular_formula": "SF6",
+         "description": "An inert, non-toxic gas used in electrical insulation.",
+         "smiles": "FS(F)(F)(F)(F)F"
+      },
+      {
+         "common_name": "Hydrobromic Acid",
+         "molecular_formula": "HBr",
+         "description": "Used in the production of bromide compounds.",
+         "smiles": "Br"
+      },
+      {
+         "common_name": "Paracetamol",
+         "molecular_formula": "C8H9NO2",
+         "description": "A common over-the-counter pain reliever.",
+         "smiles": "CC(=O)NC1=CC=C(O)C=C1"
+      },
+      {
+         "common_name": "Morphine",
+         "molecular_formula": "C17H19NO3",
+         "description": "A powerful opioid used for pain relief.",
+         "smiles": "CN1CCC23C4CC5=C(O)C=CC=C5C4=C[C@H]2[C@@H](O3)C=C1"
+      },
+      {
+         "common_name": "Codeine",
+         "molecular_formula": "C18H21NO3",
+         "description": "An opioid used for mild pain and cough suppression.",
+         "smiles": "CN1CCC23C4CC5=C(O)C=CC=C5C4=C[C@H]2[C@@H](O3)C=C1C"
+      },
+      {
+         "common_name": "Theobromine",
+         "molecular_formula": "C7H8N4O2",
+         "description": "A compound found in chocolate, known for its mild stimulant effects.",
+         "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C"
+      },
+      {
+         "common_name": "Nicotine",
+         "molecular_formula": "C10H14N2",
+         "description": "An addictive compound found in tobacco.",
+         "smiles": "CN1C=CC2=C1C(=O)N(C(=O)N2C)C"
+      },
+      {
+         "common_name": "Octane",
+         "molecular_formula": "C8H18",
+         "description": "A component of gasoline, used to measure its quality.",
+         "smiles": "CCCCCCCC"
+      },
+      {
+         "common_name": "Iodoform",
+         "molecular_formula": "CHI3",
+         "description": "Used in antiseptics and as a disinfectant.",
+         "smiles": "C(I)(I)I"
+      },
+      {
+         "common_name": "Fructose",
+         "molecular_formula": "C6H12O6",
+         "description": "A sugar found in fruits, often used as a sweetener.",
+         "smiles": "C(C(C(C(CO)O)O)O)O"
+      },
+      {
+         "common_name": "Lactose",
+         "molecular_formula": "C12H22O11",
+         "description": "A sugar found in milk, commonly referred to as milk sugar.",
+         "smiles": "C1C(C(C(C(C1O)O)O)O)C(=O)O"
+      },
+      {
+         "common_name": "Maltose",
+         "molecular_formula": "C12H22O11",
+         "description": "A sugar formed during the digestion of starch.",
+         "smiles": "C1C(C(C(C(C(C1O)O)O)O)O)C(=O)O"
+      },
+      {
+         "common_name": "Acetylsalicylic Acid",
+         "molecular_formula": "C9H8O4",
+         "description": "The active ingredient in aspirin, used as a pain reliever.",
+         "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O"
+      },
+      {
+         "common_name": "Linalool",
+         "molecular_formula": "C10H18O",
+         "description": "A fragrant compound found in lavender, used in perfumes.",
+         "smiles": "CC(C)C1=CC(=C(C=C1)O)C(C)C"
+      },
+      {
+         "common_name": "Menthol",
+         "molecular_formula": "C10H20O",
+         "description": "Used in mentholated products like cough drops and ointments.",
+         "smiles": "CC1=CC(C(C(C1O)C)C)C"
+      },
+      {
+         "common_name": "Camphor",
+         "molecular_formula": "C10H16O",
+         "description": "Used in medicinal and cosmetic products, especially for its cooling effect.",
+         "smiles": "CC1=C(C(C(C1O)C)C)C"
+      },
+      {
+         "common_name": "Styrene",
+         "molecular_formula": "C8H8",
+         "description": "A compound used in the production of plastics and synthetic rubbers.",
+         "smiles": "C1=CC=C(C=C1)C=C"
+      },
+      {
+         "common_name": "Acetophenone",
+         "molecular_formula": "C8H8O",
+         "description": "A compound with a sweet aroma, used in perfumes and flavorings.",
+         "smiles": "CC(=O)C1=CC=CC=C1"
+      },
+      {
+         "common_name": "Salicylic Acid",
+         "molecular_formula": "C7H6O3",
+         "description": "An important compound used in acne treatment and as a pain reliever.",
+         "smiles": "C1=CC(=C(C=C1)O)C(=O)O"
+      },
+      {
+         "common_name": "Cannabidiol (CBD)",
+         "molecular_formula": "C21H30O2",
+         "description": "A non-psychoactive compound found in cannabis, known for its therapeutic effects.",
+         "smiles": "CC(C1=C(C2C(C1C(C(C2O)O)C)C)C)C"
+      },
+      {
+         "common_name": "THC (Tetrahydrocannabinol)",
+         "molecular_formula": "C21H30O2",
+         "description": "The psychoactive component of cannabis responsible for the 'high'.",
+         "smiles": "CC(C1=C(C2C(C(C1C(C(C2O)O)C)C)C)C)"
+      },
+      {
+         "common_name": "L-Dopa",
+         "molecular_formula": "C9H11NO4",
+         "description": "A precursor to dopamine, used in the treatment of Parkinson's disease.",
+         "smiles": "CC(C1=CC(=C(C=C1)O)O)N"
+      },
+      {
+         "common_name": "Ethane",
+         "molecular_formula": "C2H6",
+         "description": "A simple alkane found in natural gas and petroleum.",
+         "smiles": "CC"
+      },
+      {
+         "common_name": "Isobutane",
+         "molecular_formula": "C4H10",
+         "description": "A branched isomer of butane, commonly used as a refrigerant.",
+         "smiles": "CC(C)C"
+      },
+      {
+         "common_name": "Pentane",
+         "molecular_formula": "C5H12",
+         "description": "A component of gasoline, used as a solvent.",
+         "smiles": "CCCCC"
+      },
+      {
+         "common_name": "Isopentane",
+         "molecular_formula": "C5H12",
+         "description": "Used in the production of expanded polystyrene foam.",
+         "smiles": "CC(C)CC"
+      },
+      {
+         "common_name": "Cyclohexane",
+         "molecular_formula": "C6H12",
+         "description": "A solvent used in laboratories and in the production of chemicals.",
+         "smiles": "C1CCCCC1"
+      },
+      {
+         "common_name": "Heptane",
+         "molecular_formula": "C7H16",
+         "description": "A solvent used in laboratories and to dilute other chemicals.",
+         "smiles": "CCCCCCC"
+      },
+      {
+         "common_name": "Nonane",
+         "molecular_formula": "C9H20",
+         "description": "Used in the synthesis of other organic compounds.",
+         "smiles": "CCCCCCCCC"
+      },
+      {
+         "common_name": "Decane",
+         "molecular_formula": "C10H22",
+         "description": "Used in the production of jet fuel and as a solvent.",
+         "smiles": "CCCCCCCCCC"
+      },
+      {
+         "common_name": "Nonadecane",
+         "molecular_formula": "C19H40",
+         "description": "Found in various oils and used as a fuel additive.",
+         "smiles": "CCCCCCCCCCCCCCCCCCCC"
+      },
+      {
+         "common_name": "Octacosane",
+         "molecular_formula": "C28H58",
+         "description": "Used as an ingredient in wax formulations and lubricants.",
+         "smiles": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+      },
+      {
+         "common_name": "Cholesterol",
+         "molecular_formula": "C27H46O",
+         "description": "A sterol found in animal cells and important for cell membrane structure.",
+         "smiles": "CC(C)CCCCCC(C)C(C(=O)O)C(=O)CC1=CC(=CC=C1)C(C)C"
+      },
+      {
+         "common_name": "Uric Acid",
+         "molecular_formula": "C5H4N4O3",
+         "description": "A waste product of purine metabolism, excreted in urine.",
+         "smiles": "C1=NC2=C(N1)C(=O)N(C(=O)N2C)C"
+      },
+      {
+         "common_name": "Acetaminophen",
+         "molecular_formula": "C8H9NO2",
+         "description": "A common pain reliever and fever reducer.",
+         "smiles": "CC(=O)Nc1ccc(O)cc1"
+      },
+      {
+         "common_name": "Vitamin C",
+         "molecular_formula": "C6H8O6",
+         "description": "An essential nutrient for humans, also known as ascorbic acid, important for immune function.",
+         "smiles": "C(C(=O)O)C(C(=O)O)C(C(=O)O)C(C(=O)O)C(=O)O"
+      },
+      {
+         "common_name": "Vitamin E",
+         "molecular_formula": "C29H50O2",
+         "description": "A fat-soluble antioxidant that helps protect cells from oxidative damage.",
+         "smiles": "CC(C)CCCCCCCCCC(C)C(=O)C1=CC(=CC=C1C2CC2)C"
+      },
+      {
+         "common_name": "Niacin (Vitamin B3)",
+         "molecular_formula": "C6H5NO2",
+         "description": "A water-soluble B-vitamin, important for converting food into energy.",
+         "smiles": "C1=CC(=O)C(=N1)C(=O)O"
+      },
+      {
+         "common_name": "Pantothenic Acid (Vitamin B5)",
+         "molecular_formula": "C9H17NO5",
+         "description": "A B-vitamin involved in the synthesis of coenzyme A, crucial for metabolism.",
+         "smiles": "CC(C(=O)O)C(CO)C(=O)OCCNC(=O)O"
+      },
+      {
+         "common_name": "Pyridoxine (Vitamin B6)",
+         "molecular_formula": "C8H11NO3",
+         "description": "A B-vitamin involved in amino acid metabolism and the synthesis of neurotransmitters.",
+         "smiles": "CC(C1=CC=CC=C1O)C(=O)O"
+      },
+      {
+         "common_name": "Ascorbyl Palmitate",
+         "molecular_formula": "C22H38O7",
+         "description": "A fat-soluble form of vitamin C, used as an antioxidant in cosmetics and food.",
+         "smiles": "CCCCCCCCCCCCCCCCCCC(=O)OCC(C(=O)O)C(C(=O)O)C"
+      },
+      {
+         "common_name": "Naphthalene",
+         "molecular_formula": "C10H8",
+         "description": "A moth repellent and used in the production of phthalic anhydride.",
+         "smiles": "C1=CC=CC=C1C2=CC=CC=C2"
+      },
+      {
+         "common_name": "Chlorobenzene",
+         "molecular_formula": "C6H5Cl",
+         "description": "Used as a solvent and as a precursor in the production of chemicals.",
+         "smiles": "C1=CC=C(C=C1)Cl"
+      },
+      {
+         "common_name": "Isopropyl Alcohol",
+         "molecular_formula": "C3H8O",
+         "description": "Used as a disinfectant and solvent.",
+         "smiles": "CC(C)O"
+      },
+      {
+         "common_name": "Malic Acid",
+         "molecular_formula": "C4H6O5",
+         "description": "Found in apples and other fruits, used as a flavor enhancer and acidulant.",
+         "smiles": "C(C(C(=O)O)C(=O)O)C"
+      },
+      {
+         "common_name": "Ascorbic Acid (Vitamin C)",
+         "molecular_formula": "C6H8O6",
+         "description": "An essential nutrient for humans, found in citrus fruits and used as an antioxidant.",
+         "smiles": "C(C(=O)O)C(C(=O)O)C(C(=O)O)O"
+      },
+      {
+         "common_name": "Succinic Acid",
+         "molecular_formula": "C4H6O4",
+         "description": "Found in plants and used in the production of plastics and resins.",
+         "smiles": "C(C(=O)O)C(C(=O)O)C"
+      },
+      {
+         "common_name": "Acetohydroxamic Acid",
+         "molecular_formula": "C2H5NO2",
+         "description": "Used in the treatment of urinary tract infections and as a reagent in organic synthesis.",
+         "smiles": "CC(=O)N(O)O"
+      },
+      {
+         "common_name": "Glutamic Acid",
+         "molecular_formula": "C5H9NO4",
+         "description": "An amino acid involved in the synthesis of proteins and neurotransmission.",
+         "smiles": "C(C(=O)O)C(C(=O)O)C(N)C"
+      },
+      {
+         "common_name": "Arginine",
+         "molecular_formula": "C6H14N4O2",
+         "description": "An amino acid important for protein synthesis and nitric oxide production.",
+         "smiles": "C(CC(C(=O)O)N)C(N)N"
+      },
+      {
+         "common_name": "Tyrosine",
+         "molecular_formula": "C9H11NO3",
+         "description": "An amino acid important for producing neurotransmitters like dopamine and epinephrine.",
+         "smiles": "C1=CC=C(C=C1)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Serine",
+         "molecular_formula": "C3H7NO3",
+         "description": "An amino acid involved in the synthesis of proteins and enzymes.",
+         "smiles": "C(C(C(=O)O)N)O"
+      },
+      {
+         "common_name": "Cysteine",
+         "molecular_formula": "C3H7NO2S",
+         "description": "An amino acid containing sulfur, important for protein structure and function.",
+         "smiles": "C(C(C(=O)O)N)S"
+      },
+      {
+         "common_name": "Methionine",
+         "molecular_formula": "C5H11NO2S",
+         "description": "An essential amino acid that contains sulfur, involved in protein synthesis.",
+         "smiles": "CC(C(C(=O)O)N)CS"
+      },
+      {
+         "common_name": "Leucine",
+         "molecular_formula": "C6H13NO2",
+         "description": "An essential amino acid important for protein synthesis and muscle repair.",
+         "smiles": "CC(C(C(=O)O)N)C(C)C"
+      },
+      {
+         "common_name": "Valine",
+         "molecular_formula": "C5H11NO2",
+         "description": "A branched-chain amino acid important for muscle growth and tissue repair.",
+         "smiles": "CC(C(=O)O)C(C)C"
+      },
+      {
+         "common_name": "Alanine",
+         "molecular_formula": "C3H7NO2",
+         "description": "An amino acid used in protein synthesis and energy production.",
+         "smiles": "CC(C(=O)O)N"
+      },
+      {
+         "common_name": "Aspartic Acid",
+         "molecular_formula": "C4H7NO4",
+         "description": "An amino acid involved in metabolism and the synthesis of other amino acids.",
+         "smiles": "C(C(C(=O)O)N)C(=O)O"
+      },
+      {
+         "common_name": "Glutamine",
+         "molecular_formula": "C5H10N2O3",
+         "description": "An amino acid important for protein synthesis and nitrogen balance in the body.",
+         "smiles": "C(C(C(=O)O)N)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Proline",
+         "molecular_formula": "C5H9NO2",
+         "description": "An amino acid that helps stabilize protein structures and is important for collagen production.",
+         "smiles": "C1CC(C(C(=O)O)N)C1"
+      },
+      {
+         "common_name": "Histidine",
+         "molecular_formula": "C6H9N3O2",
+         "description": "An amino acid that is a precursor to histamine, involved in immune response.",
+         "smiles": "C(C(C(=O)O)N)C1=NC=CN1"
+      },
+      {
+         "common_name": "Tryptophan",
+         "molecular_formula": "C11H12N2O2",
+         "description": "An essential amino acid involved in the production of serotonin and melatonin.",
+         "smiles": "C1=CC2=C(C=C1)C(=CN2)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Threonine",
+         "molecular_formula": "C4H9NO3",
+         "description": "An essential amino acid important for protein synthesis and immune function.",
+         "smiles": "CC(C(C(=O)O)N)O"
+      },
+      {
+         "common_name": "Insulin",
+         "molecular_formula": "C6H12N2O6S2",
+         "description": "A hormone produced in the pancreas that regulates glucose levels in the blood.",
+         "smiles": "CC(C(=O)O)NC(C(=O)O)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Cortisol",
+         "molecular_formula": "C21H30O5",
+         "description": "A steroid hormone produced by the adrenal glands, involved in stress responses and metabolism.",
+         "smiles": "CC(=O)C(C(=O)O)CC(=O)CC(=O)C1CC2CCC(C1)C2"
+      },
+      {
+         "common_name": "Adrenaline (Epinephrine)",
+         "molecular_formula": "C9H13NO3",
+         "description": "A hormone and neurotransmitter involved in the body's fight-or-flight response.",
+         "smiles": "CC1=CC(=C(C=C1)O)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Dopamine",
+         "molecular_formula": "C8H11NO2",
+         "description": "A neurotransmitter that plays a major role in the brain's reward and pleasure centers.",
+         "smiles": "C1=CC(=C(C=C1)O)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Melatonin",
+         "molecular_formula": "C13H16N2O2",
+         "description": "A hormone that regulates sleep-wake cycles and circadian rhythms.",
+         "smiles": "CC1=CC2=C(C=C1)C(=CN2)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Acetylcholine",
+         "molecular_formula": "C7H16NO2",
+         "description": "A neurotransmitter involved in muscle movement and memory formation.",
+         "smiles": "CC(C(=O)O)NCCO"
+      },
+      {
+         "common_name": "GABA (Gamma-Aminobutyric Acid)",
+         "molecular_formula": "C4H9NO2",
+         "description": "An inhibitory neurotransmitter that helps reduce neuronal excitability throughout the nervous system.",
+         "smiles": "C(C(C(=O)O)N)CCO"
+      },
+      {
+         "common_name": "Glutamate",
+         "molecular_formula": "C5H9NO4",
+         "description": "The most abundant excitatory neurotransmitter in the brain, involved in synaptic plasticity.",
+         "smiles": "C(C(C(=O)O)N)C(C(=O)O)C"
+      },
+      {
+         "common_name": "Theophylline",
+         "molecular_formula": "C7H8N4O2",
+         "description": "A stimulant used to treat respiratory diseases by relaxing bronchial muscles.",
+         "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2)C"
+      },
+      {
+         "common_name": "L-Dopa (Levodopa)",
+         "molecular_formula": "C9H11NO4",
+         "description": "A precursor to dopamine used in the treatment of Parkinson's disease.",
+         "smiles": "C1=CC(=C(C=C1O)C(C(=O)O)N)C(=O)O"
+      },
+      {
+         "common_name": "LSD (Lysergic Acid Diethylamide)",
+         "molecular_formula": "C20H25N3O",
+         "description": "A powerful hallucinogenic drug, known for its psychedelic effects.",
+         "smiles": "CN1C=NC2=C1C(=CN2)C"
+      },
+      {
+         "common_name": "Paracetamol (Acetaminophen)",
+         "molecular_formula": "C8H9NO2",
+         "description": "A common over-the-counter pain reliever and fever reducer.",
+         "smiles": "CC(=O)NC1=CC=CC=C1O"
+      },
+      {
+         "common_name": "Diphenhydramine",
+         "molecular_formula": "C17H21NO",
+         "description": "An antihistamine commonly used to treat allergy symptoms, insomnia, and motion sickness.",
+         "smiles": "CC(C1=CC=CC=C1)N(CC)C"
+      },
+      {
+         "common_name": "Magnesium Hydroxide",
+         "molecular_formula": "Mg(OH)2",
+         "description": "Used as a laxative and an antacid.",
+         "smiles": "[Mg+2].[OH-].[OH-]"
+      },
+      {
+         "common_name": "Naproxen",
+         "molecular_formula": "C14H14O3",
+         "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammation.",
+         "smiles": "CC(C)C1=CC=CC=C1C(C(C)C)C(=O)O"
+      },
+      {
+         "common_name": "Diclofenac",
+         "molecular_formula": "C14H11Cl2NO2",
+         "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammation.",
+         "smiles": "ClC1=CC(=C(C=C1)C(=O)O)C(=O)O"
+      },
+      {
+         "common_name": "Celecoxib",
+         "molecular_formula": "C17H17ClN2O2S",
+         "description": "A selective COX-2 inhibitor used to treat pain and inflammation.",
+         "smiles": "CC(C1=CC=CC=C1)N(CC)C(=O)O"
+      },
+      {
+         "common_name": "Meloxicam",
+         "molecular_formula": "C14H13N3O4S2",
+         "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat osteoarthritis and rheumatoid arthritis.",
+         "smiles": "CC(C1=CC=CC=C1)C(=O)O"
+      },
+      {
+         "common_name": "Adrenaline",
+         "molecular_formula": "C9H13NO3",
+         "description": "A hormone and neurotransmitter responsible for the fight-or-flight response.",
+         "smiles": "CC(C1=CC=CC=C1O)C(=O)N"
+      },
+      {
+         "common_name": "Serotonin",
+         "molecular_formula": "C10H12N2O",
+         "description": "A neurotransmitter involved in regulating mood, sleep, and appetite.",
+         "smiles": "C1=CC(=C(C=C1C2=CN(C=C2)C)O)O"
+      },
+      {
+         "common_name": "Histamine",
+         "molecular_formula": "C5H9N3",
+         "description": "A compound involved in immune responses, playing a role in allergic reactions.",
+         "smiles": "CC1=CC=CC=C1O"
+      },
+      {
+         "common_name": "Butanol",
+         "molecular_formula": "C4H10O",
+         "description": "A solvent used in industrial processes, including in the production of plastics.",
+         "smiles": "CCCCO"
+      },
+      {
+         "common_name": "Magnesium Carbonate",
+         "molecular_formula": "MgCO3",
+         "description": "Used in pharmaceuticals, as a drying agent, and in the production of magnesium metal.",
+         "smiles": "[Mg+2].[C](=O)(O)[O-]"
+      },
+      {
+         "common_name": "Ammonium Carbonate",
+         "molecular_formula": "NH4CO3",
+         "description": "Used in baking and as a smelling salt.",
+         "smiles": "[NH4+].[C](=O)(O)[O-]"
+      },
+      {
+         "common_name": "Lead(II) Acetate",
+         "molecular_formula": "Pb(C2H3O2)2",
+         "description": "Historically used in cosmetics and as a sweetener in wine, now known to be toxic.",
+         "smiles": "CC(=O)[O-].CC(=O)[O-].[Pb+2]"
+      },
+      {
+         "common_name": "Mercury(II) Chloride",
+         "molecular_formula": "HgCl2",
+         "description": "A highly toxic compound used in preserving specimens and in some chemical reactions.",
+         "smiles": "Cl[Hg+2]Cl"
+      },
+      {
+         "common_name": "Copper(I) Chloride",
+         "molecular_formula": "CuCl",
+         "description": "A compound used in the preparation of copper-based catalysts and in electronics.",
+         "smiles": "[Cu+].[Cl-]"
+      },
+      {
+         "common_name": "Gold(III) Chloride",
+         "molecular_formula": "AuCl3",
+         "description": "Used in various gold applications and as a catalyst in some chemical reactions.",
+         "smiles": "[Au+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+         "common_name": "Chromium(III) Chloride",
+         "molecular_formula": "CrCl3",
+         "description": "Used in dyeing, metallurgy, and as a catalyst.",
+         "smiles": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+         "common_name": "Cobalt(II) Chloride",
+         "molecular_formula": "CoCl2",
+         "description": "Used in humidity indicators, as a catalyst, and in electroplating.",
+         "smiles": "[Co+2].[Cl-].[Cl-]"
+      },
+      {
+         "common_name": "Titanium Dioxide",
+         "molecular_formula": "TiO2",
+         "description": "A white pigment used in paints, sunscreens, and food products.",
+         "smiles": "O=[Ti]=O"
+      },
+      {
+         "common_name": "Zinc Oxide",
+         "molecular_formula": "ZnO",
+         "description": "Used in rubber, cosmetics, and as a UV protectant in sunscreens.",
+         "smiles": "[Zn+2].[O-2]"
+      },
+      {
+         "common_name": "Boron Trifluoride",
+         "molecular_formula": "BF3",
+         "description": "Used as a catalyst in chemical reactions and in the production of high-temperature materials.",
+         "smiles": "B(F)(F)(F)"
+      },
+      {
+         "common_name": "Arsenic Trioxide",
+         "molecular_formula": "As2O3",
+         "description": "A toxic compound used in the treatment of certain types of leukemia.",
+         "smiles": "O=[As]=O"
+      },
+      {
+         "common_name": "L-theanine",
+         "molecular_formula": "C7H14N2O3",
+         "description": "An amino acid found in tea, known for its calming effects and potential to improve focus when combined with caffeine.",
+         "smiles": "CC(C(=O)N)C1=CNC2=C1C(=O)O2"
+      },
+      {
+         "common_name": "Acetaldehyde",
+         "molecular_formula": "C2H4O",
+         "description": "A byproduct of ethanol metabolism in the body, and a key intermediate in the production of acetic acid.",
+         "smiles": "CC=O"
+      },
+      {
+         "common_name": "Butyric Acid",
+         "molecular_formula": "C4H8O2",
+         "description": "A fatty acid found in animal fats and plant oils, with a strong odor, used in flavoring and perfumes.",
+         "smiles": "CCCC(=O)O"
+      },
+      {
+         "common_name": "Propionic Acid",
+         "molecular_formula": "C3H6O2",
+         "description": "Used in the manufacture of preservatives, particularly in the food industry.",
+         "smiles": "CC(C)C(=O)O"
+      },
+      {
+         "common_name": "Oleic Acid",
+         "molecular_formula": "C18H34O2",
+         "description": "A monounsaturated fatty acid found in olive oil and many other animal and vegetable fats.",
+         "smiles": "CCCCCCCCCCCCCCCC=CCCCCC(=O)O"
+      },
+      {
+         "common_name": "Stearic Acid",
+         "molecular_formula": "C18H36O2",
+         "description": "A saturated fatty acid used in the production of soaps, cosmetics, and as a lubricant.",
+         "smiles": "CCCCCCCCCCCCCCCCCCCC(=O)O"
+      },
+      {
+         "common_name": "Palmitic Acid",
+         "molecular_formula": "C16H32O2",
+         "description": "A common saturated fatty acid found in palm oil, used in soaps and cosmetics.",
+         "smiles": "CCCCCCCCCCCCCCCC(=O)O"
+      },
+      {
+         "common_name": "Lauric Acid",
+         "molecular_formula": "C12H24O2",
+         "description": "A saturated fatty acid found in coconut oil and palm kernel oil, used in soaps and cosmetics.",
+         "smiles": "CCCCCCCCCC(=O)O"
+      },
+      {
+         "common_name": "Myristic Acid",
+         "molecular_formula": "C14H28O2",
+         "description": "A fatty acid found in coconut oil and nutmeg, commonly used in soap and personal care products.",
+         "smiles": "CCCCCCCCCCCC(=O)O"
+      },
+      {
+         "common_name": "Capric Acid",
+         "molecular_formula": "C10H20O2",
+         "description": "A fatty acid found in animal fats and coconut oil, used in flavoring and soap making.",
+         "smiles": "CCCCCCCC(=O)O"
+      },
+      {
+         "common_name": "Hexanoic Acid",
+         "molecular_formula": "C6H12O2",
+         "description": "A fatty acid with a rancid odor, used in flavoring, and in the manufacture of esters for fragrances.",
+         "smiles": "CCCCCC(=O)O"
+      },
+      {
+         "common_name": "Isoleucine",
+         "molecular_formula": "C6H13NO2",
+         "description": "An essential amino acid that plays a key role in muscle repair and the regulation of blood sugar levels.",
+         "smiles": "CC(C)C(C(=O)O)N"
+      },
+      {
+         "common_name": "Sucralose",
+         "molecular_formula": "C12H19Cl3O8",
+         "description": "A chlorinated sugar compound used as a low-calorie sweetener.",
+         "smiles": "C1C(C(C(C1Cl)O)Cl)C(C(=O)O)O"
+      },
+      {
+         "common_name": "Saccharin",
+         "molecular_formula": "C7H5NO3S",
+         "description": "One of the earliest discovered artificial sweeteners, often used in sugar-free foods and drinks.",
+         "smiles": "C1=CC(=O)C(=C1S)C(=O)O"
+      },
+      {
+         "common_name": "Xylitol",
+         "molecular_formula": "C5H12O5",
+         "description": "A sugar alcohol used as a sweetener, often found in sugar-free gum and toothpaste.",
+         "smiles": "CC(C(CO)O)C(CO)O"
+      },
+      {
+         "common_name": "Fructooligosaccharides",
+         "molecular_formula": "C18H30O15",
+         "description": "A group of short-chain carbohydrates made up of fructose molecules, often used as prebiotics.",
+         "smiles": "OCC(C(C(C(CO)O)O)O)O"
+      },
+      {
+         "common_name": "Chitin",
+         "molecular_formula": "C8H13NO5",
+         "description": "A long-chain polymer found in the exoskeletons of arthropods and insects, and in the cell walls of fungi.",
+         "smiles": "C(C(C(C(CO)O)O)N)O"
+      },
+      {
+         "common_name": "Keratin",
+         "molecular_formula": "C48H74N2O15S2",
+         "description": "A fibrous structural protein found in hair, nails, and skin, providing strength and protection.",
+         "smiles": "C(C(C(C(CO)O)O)S)O"
+      },
+      {
+         "common_name": "Hemoglobin",
+         "molecular_formula": "C2952H4664N812O832S8Fe4",
+         "description": "A protein in red blood cells that transports oxygen from the lungs to the tissues.",
+         "smiles": "C(C(C(C(CCO)O)O)O)N"
+      },
+      {
+         "common_name": "Casein",
+         "molecular_formula": "C81H125N23O39P2S2",
+         "description": "A family of proteins commonly found in mammalian milk, known for its slow digestion rate.",
+         "smiles": "C(C(C(C(CCO)O)N)O)O"
+      },
+      {
+         "common_name": "Amylase",
+         "molecular_formula": "C12H20O7",
+         "description": "An enzyme that helps break down starch into sugars during digestion.",
+         "smiles": "C(C(C(C(CCO)O)O)O)O"
+      },
+      {
+         "common_name": "Nitric Oxide",
+         "molecular_formula": "NO",
+         "description": "A molecule involved in vasodilation and signaling, playing a role in blood pressure regulation.",
+         "smiles": "N=O"
+      },
+      {
+         "common_name": "Sulfur Dioxide",
+         "molecular_formula": "SO2",
+         "description": "A colorless gas with a pungent odor, used in the production of sulfuric acid and as a preservative.",
+         "smiles": "O=S=O"
+      }
+   ]
 }
