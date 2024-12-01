@@ -602,12 +602,6 @@
          "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C"
       },
       {
-         "common_name": "Nicotine",
-         "molecular_formula": "C10H14N2",
-         "description": "An addictive compound found in tobacco.",
-         "smiles": "CN1C=CC2=C1C(=O)N(C(=O)N2C)C"
-      },
-      {
          "common_name": "Octane",
          "molecular_formula": "C8H18",
          "description": "A component of gasoline, used to measure its quality.",
@@ -680,18 +674,6 @@
          "smiles": "C1=CC(=C(C=C1)O)C(=O)O"
       },
       {
-         "common_name": "Cannabidiol (CBD)",
-         "molecular_formula": "C21H30O2",
-         "description": "A non-psychoactive compound found in cannabis, known for its therapeutic effects.",
-         "smiles": "CC(C1=C(C2C(C1C(C(C2O)O)C)C)C)C"
-      },
-      {
-         "common_name": "THC (Tetrahydrocannabinol)",
-         "molecular_formula": "C21H30O2",
-         "description": "The psychoactive component of cannabis responsible for the 'high'.",
-         "smiles": "CC(C1=C(C2C(C(C1C(C(C2O)O)C)C)C)C)"
-      },
-      {
          "common_name": "L-Dopa",
          "molecular_formula": "C9H11NO4",
          "description": "A precursor to dopamine, used in the treatment of Parkinson's disease.",
@@ -732,12 +714,6 @@
          "molecular_formula": "C7H16",
          "description": "A solvent used in laboratories and to dilute other chemicals.",
          "smiles": "CCCCCCC"
-      },
-      {
-         "common_name": "Nonane",
-         "molecular_formula": "C9H20",
-         "description": "Used in the synthesis of other organic compounds.",
-         "smiles": "CCCCCCCCC"
       },
       {
          "common_name": "Decane",
@@ -1004,12 +980,6 @@
          "smiles": "C1=CC(=C(C=C1O)C(C(=O)O)N)C(=O)O"
       },
       {
-         "common_name": "LSD (Lysergic Acid Diethylamide)",
-         "molecular_formula": "C20H25N3O",
-         "description": "A powerful hallucinogenic drug, known for its psychedelic effects.",
-         "smiles": "CN1C=NC2=C1C(=CN2)C"
-      },
-      {
          "common_name": "Paracetamol (Acetaminophen)",
          "molecular_formula": "C8H9NO2",
          "description": "A common over-the-counter pain reliever and fever reducer.",
@@ -1254,18 +1224,6 @@
          "molecular_formula": "C48H74N2O15S2",
          "description": "A fibrous structural protein found in hair, nails, and skin, providing strength and protection.",
          "smiles": "C(C(C(C(CO)O)O)S)O"
-      },
-      {
-         "common_name": "Hemoglobin",
-         "molecular_formula": "C2952H4664N812O832S8Fe4",
-         "description": "A protein in red blood cells that transports oxygen from the lungs to the tissues.",
-         "smiles": "C(C(C(C(CCO)O)O)O)N"
-      },
-      {
-         "common_name": "Casein",
-         "molecular_formula": "C81H125N23O39P2S2",
-         "description": "A family of proteins commonly found in mammalian milk, known for its slow digestion rate.",
-         "smiles": "C(C(C(C(CCO)O)N)O)O"
       },
       {
          "common_name": "Amylase",
